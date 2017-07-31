@@ -76,14 +76,16 @@ my $prefix=$options{prefix};
 ##make the blast database
 my $cmd="formatdb -i $options{aa} -p T";
 my $result;
+message($options{verbose},"make the blast database: $cmd\n" );
 $result = system($cmd);
 if ( $result != 0 )
 {
     die("The following command failed: '$cmd'\n");
 }
 
-##blast 
-$cmd="blastall -p blastp -d $options{aa} -i $options{aa} -o $prefix.bsp -e 1e-5 -m 8  -a 4";
+##blast
+message($options{verbose},"Blasting: $cmd\n" );
+$cmd="blastall -p blastp -d $options{aa} -i $options{aa} -o $options{output}/$prefix.bsp -e 1e-5 -m 8  -a 4";
 $result = system($cmd);
 if ( $result != 0 )
 {
