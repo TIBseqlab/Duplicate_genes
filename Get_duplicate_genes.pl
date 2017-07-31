@@ -174,7 +174,7 @@ sub message {
 sub print_usage {
     print <<BLOCK;
 USAGE:
-perl Get_duplicate_genes.pl [-arguments]
+perl Get_duplicate_genes.pl -g test_input/2556921600.gff -a test_input/2556921600.faa -o test_output -p JSC1 -v [-arguments]
 
  -g [File]        : Input gff file (Required).
  -a [File]        : Input amino acid fil (Required).
