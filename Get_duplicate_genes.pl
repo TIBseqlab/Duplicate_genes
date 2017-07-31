@@ -84,13 +84,23 @@ if ( $result != 0 )
 }
 
 ##blast
-message($options{verbose},"Blasting: $cmd\n" );
 $cmd="blastall -p blastp -d $options{aa} -i $options{aa} -o $options{output}/$prefix.bsp -e 1e-5 -m 8  -a 4";
+message($options{verbose},"Blasting: $cmd\n" );
 $result = system($cmd);
 if ( $result != 0 )
 {
     die("The following command failed: '$cmd'\n");
 }
+
+## Execute the R script to get the duplicate gene pair
+$cmd="Rscript dupgenes.R $options{gff} $options{output}/$prefix.bsp";
+message($options{verbose},"R Scripts: $cmd\n" );
+$result = system($cmd);
+if ( $result != 0 )
+{
+    die("The following command failed: '$cmd'\n");
+} 
+
 
 sub check_option {
     my %args = (@_);
