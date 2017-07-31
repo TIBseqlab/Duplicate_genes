@@ -93,7 +93,7 @@ if ( $result != 0 )
 }
 
 ## Execute the R script to get the duplicate gene pair
-$cmd="Rscript dupgenes.R $options{gff} $options{output}/$prefix.bsp";
+$cmd="Rscript dupgenes.R $options{gff} $options{output}/$prefix.bsp $options{output}/$prefix.dup.txt";
 message($options{verbose},"R Scripts: $cmd\n" );
 $result = system($cmd);
 if ( $result != 0 )
