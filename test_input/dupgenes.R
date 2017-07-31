@@ -65,7 +65,7 @@ for (i in 1:nrow(dupgene)){
   dupgene[i, ] = sort(dupgene[i, ])
 }                        
 dupgene3<- dupgene[duplicated(dupgene),]
-write.table(dupgene, output , row.names = FALSE, sep = "\t")
+write.table(dupgene3, output , row.names = FALSE, sep = "\t")
 
 
 
