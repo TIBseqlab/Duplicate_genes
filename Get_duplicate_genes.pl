@@ -84,7 +84,7 @@ if ( $result != 0 )
 }
 
 ##blast
-$cmd="blastall -p blastp -d $options{aa} -i $options{aa} -o $options{output}/$prefix.bsp -e 1e-5 -m 8  -a 4";
+$cmd="blastall -p blastp -d $options{aa} -i $options{aa} -o $options{output}/$prefix.bsp -e 1e-5 -m 8  -a $options{threads}";
 message($options{verbose},"Blasting: $cmd\n" );
 $result = system($cmd);
 if ( $result != 0 )
