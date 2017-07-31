@@ -9,7 +9,7 @@ gff2[,1] <- gsub("ID=","",gff2[,1])
 colnames(gff2) <- c("gene","len")
 
 
-bsp <- read.table("JSC1.bsp", header = FALSE)
+bsp <- read.table("2556921600.bsp", header = FALSE)
 bsp <- bsp[bsp[,1]!=bsp[,2],]
 bsp[,1] <- as.character(bsp[,1])
 bsp[,2] <- as.character(bsp[,2])
@@ -37,7 +37,7 @@ dupgene <- rbind(dupgene1[,c("query","subject")],dupgene2[,c("query","subject")]
 for (i in 1:nrow(dupgene)){
   dupgene[i, ] = sort(dupgene[i, ])
 }                        
-dupgene <- dupgene[!duplicated(dupgene),]
+dupgene<- dupgene[!duplicated(dupgene),]
 write.table(dupgene, "dupgene.txt", row.names = FALSE, sep = "\t")
 
 
