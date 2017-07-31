@@ -45,7 +45,7 @@ if ( defined( $options{help} ) ) {
 # check the options
 check_option(
     option_name     => 'g',
-    option_value    => $options{input},
+    option_value    => $options{gff},
     must_be_defined => 1
 );
 check_option(
@@ -60,7 +60,7 @@ check_option(
 );
 check_option(
     option_name     => 'a',
-    option_value    => $options{fastqc},
+    option_value    => $options{aa},
     must_be_defined => 1 
 );
 
