@@ -37,7 +37,8 @@ bsp <- bsp[bsp[,1]!=bsp[,2],]
 bsp[,1] <- as.character(bsp[,1])
 bsp[,2] <- as.character(bsp[,2])
 bsp2 <- bsp[,1:4]
-colnames(bsp2) <- c("query","subject","identity","length")
+setnames(bsp2,c("query","subject","identity","length"))
+#colnames(bsp2) <- c("query","subject","identity","length")
 
 # group and get the top hit for each query
 bsp2 <- data.table(bsp2, key = "query")
@@ -46,7 +47,8 @@ bspuniq <- bsp2[, head(.SD, 1), by = key(bsp2)]
 # get gene length
 bspuniqcal <- merge(bspuniq, gff2, by.x = "query", by.y = "gene", all.x = TRUE)
 bspuniqcal2 <- merge(bspuniqcal, gff2, by.x = "subject", by.y = "gene", all.x = TRUE)
-colnames(bspuniqcal2) <- c("query","subject","identity","length","slength","qlength")
+setnames(bspuniqcal2,c("query","subject","identity","length","slength","qlength"))
+#colnames(bspuniqcal2) <- c("query","subject","identity","length","slength","qlength")
 
 # calculate percentage
 bspuniqcal2[,"maxlen"] <- apply(bspuniqcal2[,c("slength","qlength")], 1, max)
