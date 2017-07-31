@@ -64,8 +64,8 @@ check_option(
     must_be_defined => 1 
 );
 
-# check the directories
-
+# check the inputs
+mkdir $options{output} unless -d $options{output};
 die "$options{gff} is not a file, please specify a  gff file" unless -f $options{gff};
 die "$options{aa} is not a file, please specify a file containing amoni acids" unless -f $options{aa};
 
