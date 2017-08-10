@@ -3,6 +3,7 @@ This pipeline is prepared to get duplicates genes using gff annotation and amino
 
 ### Example commands：
 perl Get_duplicate_genes.pl -g test_input/2556921600.gff -a test_input/2556921600.faa -o test_output -p JSC1 -v 
+perl Get_duplicate_genes.pl -g test_input/2556921600.gff -a test_input/2556921600.faa -o test_output -p JSC1 
 
 ### Input files：
 1. A gff annotation file
