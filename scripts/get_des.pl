@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 use strict;
 
-open(my $BGI, '<', "2556921600.gff") or die ;
+open(my $BGI, '<', "$ARGV[0]") or die ;
 my $bgi={};
 while (<$BGI>) {
     chomp;
@@ -17,8 +17,8 @@ while (<$BGI>) {
 close($BGI);
 
 
-open(my $mod, '<', $ARGV[0]) or die ;
-open(my $FULL, '>', $ARGV[1]) or die ;
+open(my $mod, '<', $ARGV[1]) or die ;
+open(my $FULL, '>', $ARGV[2]) or die ;
 my $count=0;
 while(<$mod>){
     $count++;
