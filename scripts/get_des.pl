@@ -31,7 +31,7 @@ while(<$mod>){
 	my $len=$a[3];
 	my $qlength=$a[5];
 	my $slength=$a[4];
-    my $qeury_des=defined($bgi->{"id"}) ? $bgi->{"id"}:"" ;
+    my $query_des=defined($bgi->{"id"}) ? $bgi->{"id"}:"" ;
     my $subject_des=defined($bgi->{"des"}) ? $bgi->{"des"}:"" ;
     print $FULL "$query\t$subject\t$identity\t$len\t$qlength\t$slength\t$query_des\t$subject_des\n";
 }
