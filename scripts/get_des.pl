@@ -23,7 +23,7 @@ while(<$mod>){
     $count++;
     print $FULL "query\tsubject\tidentity\tlength\tqlength\tslength\tquery_des\tsubject_des\n" and next if $count==1;
     chomp;
-    my @a=split /,/,$_;
+    my @a=split /\t/,$_;
     my $query=$a[0];
     my $subject=$a[1];
     my $identity=$a[2];
