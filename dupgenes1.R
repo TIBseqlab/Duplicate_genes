@@ -72,6 +72,7 @@ dupgene3 <- dupgene1[dupgene1$length <= 150,]
 dupgene3[,"I"] <- (0.01*6+4.8*(dupgene3[,"length"])^(-0.32*(1+exp(-dupgene3[,"length"]/1000))))*100
 dupgene3 <- dupgene3[dupgene3$identity >= dupgene3$I,]
 dupgene <- rbind(dupgene2[,c("query","subject")],dupgene3[,c("query","subject")])
+dupgene <- merge(dupgene, recibest2, by.x = "subject", by.y = "gene", all.x = TRUE)
 write.table(dupgene, output, row.names = FALSE, sep = "\t")
 
 
