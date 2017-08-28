@@ -101,6 +101,15 @@ if ( $result != 0 )
     die("The following command failed: '$cmd'\n");
 } 
 
+## Execute the R script to get the duplicate gene pair
+$cmd="Perl get_des.pl $options{gff} $options{output}/$prefix.dup.txt $options{output}/$prefix.des.txt ";
+message($options{verbose},"Generate full report: $cmd\n" );
+$result = system($cmd);
+if ( $result != 0 )
+ {
+     die("The following command failed: '$cmd'\n");
+ }
+
 
 sub check_option {
     my %args = (@_);
