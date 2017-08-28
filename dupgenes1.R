@@ -78,7 +78,7 @@ dup <- merge(dup, gff2, by.x = "query", by.y = "gene", all.x = TRUE)
 dup <- merge(dup, gff2, by.x = "subject", by.y = "gene", all.x = TRUE)
 setnames(dup,c("query","subject","identity","length","slength","qlength"))
 
-write.table(dupgene, output, row.names = FALSE, sep = "\t")
+write.table(dup, output, row.names = FALSE, sep = "\t")
 
 
 
