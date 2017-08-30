@@ -102,7 +102,7 @@ if ( $result != 0 )
 } 
 
 ## Execute the R script to get the duplicate gene pair
-$cmd="Perl get_des.pl $options{gff} $options{output}/$prefix.dup.txt $options{output}/$prefix.des.txt ";
+$cmd="perl get_des.pl $options{gff} $options{output}/$prefix.dup.txt $options{output}/$prefix.des.txt ";
 message($options{verbose},"Generate full report: $cmd\n" );
 $result = system($cmd);
 if ( $result != 0 )

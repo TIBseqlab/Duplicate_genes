@@ -26,7 +26,6 @@ while(<$mod>){
     chomp;
     my @a=split /\t/,$_;
     my $query=$a[0];
-    print $query."\n";
     my $subject=$a[1];
     my $identity=$a[2];
 	my $len=$a[3];
