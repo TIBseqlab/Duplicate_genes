@@ -15,6 +15,6 @@ A output folder is given as argument and a prefix is given as well.
 2. test_output/JSC1.dup.txt is the output file containing duplicate gene pairs.
 
 ### Prerequisite:
-1. Blastall binaries should be included in the PATH
+1. Blast+ binaries should be included in the PATH
 2. R with "data.table" package installed
 3. Perl 

@@ -1,558 +1,617 @@
 query	subject	identity	length	qlength	slength	query_des	subject_des
-2558006940	2558007328	32.12	330	342	354	Threonine dehydrogenase and related Zn-dependent dehydrogenases	Threonine dehydrogenase and related Zn-dependent dehydrogenases
-2558006951	2558013091	81.56	244	266	264	Peptidase family S48	Peptidase family S48
-2558006954	2558012375	63.41	123	127	126	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
-2558006957	2558007846	39.33	417	397	433	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	Signal transduction histidine kinase
-2558006975	2558012049	40.82	414	427	434	Predicted Zn-dependent peptidases	Predicted Zn-dependent peptidases
-2558006982	2558012527	67.77	242	297	270	ABC-type Mn/Zn transport systems, ATPase component	ABC-type Mn/Zn transport systems, ATPase component
+2558006940	2558007328	32.121	330	342	354	Threonine dehydrogenase and related Zn-dependent dehydrogenases	Threonine dehydrogenase and related Zn-dependent dehydrogenases
+2558006951	2558013091	82.692	260	266	264	Peptidase family S48	Peptidase family S48
+2558006954	2558012375	63.415	123	127	126	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558006957	2558007846	40.288	417	397	433	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	Signal transduction histidine kinase
+2558006975	2558012049	40.821	414	427	434	Predicted Zn-dependent peptidases	Predicted Zn-dependent peptidases
+2558006982	2558012527	67.769	242	297	270	ABC-type Mn/Zn transport systems, ATPase component	ABC-type Mn/Zn transport systems, ATPase component
 2558006984	2558010987	100	72	72	89	Uncharacterized conserved protein	Homeodomain-like domain
-2558006996	2558006997	44.9	98	101	100	hypothetical protein	hypothetical protein
+2558006996	2558006997	44.898	98	101	100	hypothetical protein	hypothetical protein
 2558007009	2558012710	47.21	466	473	450	AAA-like domain	AAA-like domain
-2558007014	2558012386	74.33	335	339	341	sulfate ABC transporter, ATP-binding protein	sulfate ABC transporter, ATP-binding protein
-2558007016	2558012102	63.81	829	850	851	glycogen/starch/alpha-glucan phosphorylases	glycogen/starch/alpha-glucan phosphorylases
-2558007029	2558011107	47.1	552	596	608	hypothetical protein	hypothetical protein
-2558007030	2558012092	66.67	159	195	159	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558007031	2558012301	40.7	172	186	194	phycobilin lyase, CpcU subunit	phycobilin lyase, CpcS-I subunit
-2558007034	2558007611	83.33	90	101	101	RNA-binding proteins (RRM domain)	RNA-binding proteins (RRM domain)
-2558007036	2558008145	44.15	299	284	349	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
-2558007039	2558009031	33.53	504	613	626	ABC-type multidrug transport system, ATPase and permease components	ABC-type multidrug transport system, ATPase and permease components
-2558007058	2558011673	32.84	545	549	629	acetolactate synthase, large subunit (EC 2.2.1.6)	acetolactate synthase, large subunit (EC 2.2.1.6)
-2558007065	2558010014	44.25	226	239	254	ABC-type antimicrobial peptide transport system, ATPase component	ABC-type antimicrobial peptide transport system, ATPase component
-2558007067	2558008892	32.23	391	445	463	RND family efflux transporter, MFP subunit	RND family efflux transporter, MFP subunit
-2558007070	2558013262	50.47	107	106	115	thioredoxin	Thioredoxin domain-containing protein
-2558007071	2558011106	31.61	484	607	606	Predicted membrane protein	Predicted membrane protein
-2558007075	2558011268	39.29	224	223	267	ABC-type cobalt transport system, ATPase component	ABC-type cobalt transport system, ATPase component
+2558007014	2558012386	74.328	335	339	341	sulfate ABC transporter, ATP-binding protein	sulfate ABC transporter, ATP-binding protein
+2558007016	2558012102	63.812	829	850	851	glycogen/starch/alpha-glucan phosphorylases	glycogen/starch/alpha-glucan phosphorylases
+2558007029	2558011107	46.92	552	596	608	hypothetical protein	hypothetical protein
+2558007030	2558012092	66.667	159	195	159	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558007031	2558012301	40.698	172	186	194	phycobilin lyase, CpcU subunit	phycobilin lyase, CpcS-I subunit
+2558007033	2558010110	82	50	63	60	SSU ribosomal protein S21P	ribosomal protein S21
+2558007034	2558007611	83.333	90	101	101	RNA-binding proteins (RRM domain)	RNA-binding proteins (RRM domain)
+2558007036	2558008145	44.147	299	284	349	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
+2558007039	2558009031	33.278	604	613	626	ABC-type multidrug transport system, ATPase and permease components	ABC-type multidrug transport system, ATPase and permease components
+2558007056	2558009722	38.403	263	273	272	CAAX protease self-immunity	CAAX protease self-immunity
+2558007057	2558008824	36.548	197	209	234	Protein of unknown function (DUF3611)	Protein of unknown function (DUF3611)
+2558007058	2558011673	33.15	546	549	629	acetolactate synthase, large subunit (EC 2.2.1.6)	acetolactate synthase, large subunit (EC 2.2.1.6)
+2558007065	2558010014	44.248	226	239	254	ABC-type antimicrobial peptide transport system, ATPase component	ABC-type antimicrobial peptide transport system, ATPase component
+2558007067	2558008892	32.598	408	445	463	RND family efflux transporter, MFP subunit	RND family efflux transporter, MFP subunit
+2558007070	2558013262	50.467	107	106	115	thioredoxin	Thioredoxin domain-containing protein
+2558007075	2558011268	39.286	224	223	267	ABC-type cobalt transport system, ATPase component	ABC-type cobalt transport system, ATPase component
 2558007077	2558011628	100	85	91	96	Photosynthetic reaction centre protein	Photosynthetic reaction centre protein
-2558007080	2558012396	53.1	145	146	151	transcriptional regulator, BadM/Rrf2 family	transcriptional regulator, BadM/Rrf2 family
-2558007081	2558009896	36.22	312	321	327	cysteine synthase (EC 2.5.1.47)	Cysteine synthase
-2558007098	2558013499	69.81	616	618	597	ATPases of the AAA+ class	ATPases of the AAA+ class
-2558007107	2558012509	79.55	616	627	631	membrane protease FtsH catalytic subunit (EC 3.4.24.-)	ATP-dependent metalloprotease FtsH
-2558007108	2558009342	56.45	62	66	66	Protein of unknown function (DUF2949)	Protein of unknown function (DUF2949)
-2558007111	2558008996	59.53	341	410	440	Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain	Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain
-2558007115	2558012967	35.7	395	398	394	acetyl-CoA acetyltransferase (EC 2.3.1.9)	acetyl-CoA acetyltransferases
-2558007128	2558013216	50.6	332	356	359	Predicted glycosyltransferases	Predicted glycosyltransferases
-2558007147	2558009275	68.57	280	282	291	Methylase of chemotaxis methyl-accepting proteins	MCP methyltransferase, CheR-type
+2558007080	2558012396	53.103	145	146	151	transcriptional regulator, BadM/Rrf2 family	transcriptional regulator, BadM/Rrf2 family
+2558007081	2558009896	36.218	312	321	327	cysteine synthase (EC 2.5.1.47)	Cysteine synthase
+2558007098	2558013499	69.805	616	618	597	ATPases of the AAA+ class	ATPases of the AAA+ class
+2558007107	2558012509	80.032	616	627	631	membrane protease FtsH catalytic subunit (EC 3.4.24.-)	ATP-dependent metalloprotease FtsH
+2558007108	2558009342	56.452	62	66	66	Protein of unknown function (DUF2949)	Protein of unknown function (DUF2949)
+2558007111	2558008996	55.416	397	410	440	Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain	Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain
+2558007115	2558012967	35.835	413	398	394	acetyl-CoA acetyltransferase (EC 2.3.1.9)	acetyl-CoA acetyltransferases
+2558007128	2558013216	51.453	344	356	359	Predicted glycosyltransferases	Predicted glycosyltransferases
+2558007147	2558009275	68.571	280	282	291	Methylase of chemotaxis methyl-accepting proteins	MCP methyltransferase, CheR-type
 2558007159	2558013273	33.61	241	261	268	bacterial polymer biosynthesis proteins, WecB/TagA/CpsF family	Teichoic acid biosynthesis proteins
-2558007166	2558007486	39.68	310	317	316	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
-2558007169	2558009287	57.26	358	350	368	Response regulator containing a CheY-like receiver domain and a GGDEF domain	Response regulator containing a CheY-like receiver domain and a GGDEF domain
-2558007170	2558009288	70.34	118	121	121	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
-2558007171	2558009289	59.64	166	176	171	Chemotaxis signal transduction protein	Chemotaxis signal transduction protein
-2558007172	2558009290	59.95	1106	1142	1183	methyl-accepting chemotaxis sensory transducer with GAF sensor	methyl-accepting chemotaxis sensory transducer with GAF sensor
-2558007179	2558009464	46.94	1110	1201	1234	WD-40 repeat-containing protein	FOG: WD40 repeat
-2558007180	2558007367	40.85	71	77	80	Membrane protein implicated in regulation of membrane protease activity	Membrane protein implicated in regulation of membrane protease activity
-2558007182	2558007451	56.14	228	283	259	RNA polymerase sigma factor, sigma-70 family	RNA polymerase sigma factor, sigma-70 family
-2558007184	2558007764	45.54	303	342	335	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
-2558007198	2558010815	52.32	367	387	383	Spermidine/putrescine-binding periplasmic protein	Spermidine/putrescine-binding periplasmic protein
-2558007199	2558012901	79.43	175	185	186	adenylylsulfate kinase (apsK)	adenylylsulfate kinase (EC 2.7.1.25)
-2558007200	2558009021	46.29	350	383	374	Predicted oxidoreductases of the aldo/keto reductase family	Predicted oxidoreductases of the aldo/keto reductase family
-2558007216	2558010152	40.64	283	291	323	Ribosomal protein S1	SSU ribosomal protein S1P
-2558007218	2558011581	33.79	219	238	225	NADH(P)-binding	NADH(P)-binding
-2558007221	2558008666	43.22	590	570	577	Beta-propeller repeat	Beta-propeller repeat
-2558007227	2558009081	38.55	166	182	205	Transposase and inactivated derivatives	Transposase and inactivated derivatives
+2558007166	2558007486	39.677	310	317	316	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
+2558007169	2558009287	57.263	358	350	368	Response regulator containing a CheY-like receiver domain and a GGDEF domain	Response regulator containing a CheY-like receiver domain and a GGDEF domain
+2558007170	2558009288	70.339	118	121	121	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558007171	2558009289	59.639	166	176	171	Chemotaxis signal transduction protein	Chemotaxis signal transduction protein
+2558007172	2558009290	59.946	1106	1142	1183	methyl-accepting chemotaxis sensory transducer with GAF sensor	methyl-accepting chemotaxis sensory transducer with GAF sensor
+2558007179	2558009464	46.356	1139	1201	1234	WD-40 repeat-containing protein	FOG: WD40 repeat
+2558007180	2558007367	40.845	71	77	80	Membrane protein implicated in regulation of membrane protease activity	Membrane protein implicated in regulation of membrane protease activity
+2558007182	2558007451	54.694	245	283	259	RNA polymerase sigma factor, sigma-70 family	RNA polymerase sigma factor, sigma-70 family
+2558007184	2558007764	44.578	332	342	335	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components	ABC-type dipeptide/oligopeptide/nickel transport systems, permease components
+2558007198	2558010815	52.589	367	387	383	Spermidine/putrescine-binding periplasmic protein	Spermidine/putrescine-binding periplasmic protein
+2558007199	2558012901	79.429	175	185	186	adenylylsulfate kinase (apsK)	adenylylsulfate kinase (EC 2.7.1.25)
+2558007200	2558009021	46.286	350	383	374	Predicted oxidoreductases of the aldo/keto reductase family	Predicted oxidoreductases of the aldo/keto reductase family
+2558007216	2558010152	40.636	283	291	323	Ribosomal protein S1	SSU ribosomal protein S1P
+2558007218	2558011581	34.3	207	238	225	NADH(P)-binding	NADH(P)-binding
+2558007221	2558008666	44.198	586	570	577	Beta-propeller repeat	Beta-propeller repeat
+2558007227	2558009081	39.535	172	182	205	Transposase and inactivated derivatives	Transposase and inactivated derivatives
 2558007233	2558012538	61.24	129	132	126	Predicted metal-binding protein	Predicted metal-binding protein
-2558007234	2558008920	57.59	290	303	309	Transcriptional regulator	Transcriptional regulator
-2558007244	2558013134	32.03	128	128	143	SnoaL-like domain	Ketosteroid isomerase-related protein
-2558007247	2558008373	82.64	242	270	261	uroporphyrinogen-III C-methyltransferase (EC 2.1.1.107)	uroporphyrinogen-III C-methyltransferase (EC 2.1.1.107)
-2558007256	2558012718	71.47	659	720	657	polyphosphate kinase 1	polyphosphate kinase 1
+2558007234	2558008920	57.586	290	303	309	Transcriptional regulator	Transcriptional regulator
+2558007244	2558013134	32.031	128	128	143	SnoaL-like domain	Ketosteroid isomerase-related protein
+2558007247	2558008373	82.645	242	270	261	uroporphyrinogen-III C-methyltransferase (EC 2.1.1.107)	uroporphyrinogen-III C-methyltransferase (EC 2.1.1.107)
+2558007256	2558012718	71.472	659	720	657	polyphosphate kinase 1	polyphosphate kinase 1
 2558007262	2558010125	70.37	54	64	62	hypothetical protein	hypothetical protein
-2558007269	2558010852	47.39	498	506	512	Phytoene dehydrogenase and related proteins	Phytoene dehydrogenase and related proteins
-2558007271	2558009314	42.56	195	211	198	Uncharacterized membrane protein (homolog of Drosophila rhomboid)	Uncharacterized membrane protein (homolog of Drosophila rhomboid)
-2558007276	2558010817	37.64	263	279	273	ABC-type spermidine/putrescine transport system, permease component II	ABC-type spermidine/putrescine transport system, permease component II
-2558007277	2558010814	45.1	357	370	376	spermidine/putrescine ABC transporter ATP-binding subunit	spermidine/putrescine ABC transporter ATP-binding subunit
-2558007285	2558010942	32.39	247	263	260	hypothetical protein	hypothetical protein
-2558007296	2558013261	42.76	152	169	150	Orange carotenoid protein, N-terminal	Orange carotenoid protein, N-terminal
-2558007306	2558010995	42.58	364	361	358	3-isopropylmalate dehydrogenase	Isocitrate/isopropylmalate dehydrogenase
-2558007310	2558011159	72.59	259	275	270	phosphate ABC transporter ATP-binding protein, PhoT family (TC 3.A.1.7.1)	phosphate ABC transporter ATP-binding protein, PhoT family (TC 3.A.1.7.1)
-2558007311	2558011158	32.27	220	307	314	phosphate ABC transporter, permease protein PstA	phosphate ABC transporter membrane protein 2, PhoT family (TC 3.A.1.7.1)
-2558007312	2558011157	34.28	283	321	320	phosphate ABC transporter membrane protein 1, PhoT family (TC 3.A.1.7.1)	phosphate ABC transporter membrane protein 1, PhoT family (TC 3.A.1.7.1)
-2558007314	2558008260	45.48	321	366	374	phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)	phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)
-2558007336	2558010750	60.5	362	408	420	Endoglucanase Y	Endoglucanase Y
-2558007341	2558011781	30.23	311	339	349	Glycosyltransferases involved in cell wall biogenesis	Glycosyltransferases involved in cell wall biogenesis
-2558007343	2558008334	51.61	155	159	163	Protein of unknown function (DUF4079)	Protein of unknown function (DUF4079)
-2558007349	2558012067	53.5	843	856	867	filamentous hemagglutinin family N-terminal domain	filamentous hemagglutinin family N-terminal domain
-2558007362	2558010682	41.65	389	393	410	amidohydrolase	amidohydrolase
-2558007376	2558013172	80.83	360	361	363	photosystem II, DI subunit (also called Q(B))	photosystem II, DI subunit (also called Q(B))
+2558007269	2558010852	48.919	509	506	512	Phytoene dehydrogenase and related proteins	Phytoene dehydrogenase and related proteins
+2558007271	2558009314	42.564	195	211	198	Uncharacterized membrane protein (homolog of Drosophila rhomboid)	Uncharacterized membrane protein (homolog of Drosophila rhomboid)
+2558007276	2558010817	37.643	263	279	273	ABC-type spermidine/putrescine transport system, permease component II	ABC-type spermidine/putrescine transport system, permease component II
+2558007277	2558010814	45.098	357	370	376	spermidine/putrescine ABC transporter ATP-binding subunit	spermidine/putrescine ABC transporter ATP-binding subunit
+2558007285	2558010942	32.4	250	263	260	hypothetical protein	hypothetical protein
+2558007296	2558013261	42.763	152	169	150	Orange carotenoid protein, N-terminal	Orange carotenoid protein, N-terminal
+2558007306	2558010995	42.582	364	361	358	3-isopropylmalate dehydrogenase	Isocitrate/isopropylmalate dehydrogenase
+2558007310	2558011159	72.587	259	275	270	phosphate ABC transporter ATP-binding protein, PhoT family (TC 3.A.1.7.1)	phosphate ABC transporter ATP-binding protein, PhoT family (TC 3.A.1.7.1)
+2558007311	2558011158	34.545	275	307	314	phosphate ABC transporter, permease protein PstA	phosphate ABC transporter membrane protein 2, PhoT family (TC 3.A.1.7.1)
+2558007312	2558011157	34.276	283	321	320	phosphate ABC transporter membrane protein 1, PhoT family (TC 3.A.1.7.1)	phosphate ABC transporter membrane protein 1, PhoT family (TC 3.A.1.7.1)
+2558007314	2558008260	45.483	321	366	374	phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)	phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)
+2558007321	2558012077	46.512	215	330	376	Putative GTPases (G3E family)	Putative GTPases (G3E family)
+2558007331	2558009861	34.325	504	551	545	sodium/proton antiporter, CPA1 family (TC 2.A.36)	Na+/H+ antiporter, bacterial form
+2558007336	2558010750	61.326	362	408	420	Endoglucanase Y	Endoglucanase Y
+2558007341	2558011781	30.225	311	339	349	Glycosyltransferases involved in cell wall biogenesis	Glycosyltransferases involved in cell wall biogenesis
+2558007343	2558008334	51.613	155	159	163	Protein of unknown function (DUF4079)	Protein of unknown function (DUF4079)
+2558007349	2558012067	53.467	851	856	867	filamentous hemagglutinin family N-terminal domain	filamentous hemagglutinin family N-terminal domain
+2558007362	2558010682	41.645	389	393	410	amidohydrolase	amidohydrolase
+2558007376	2558013172	80.833	360	361	363	photosystem II, DI subunit (also called Q(B))	photosystem II, DI subunit (also called Q(B))
 2558007378	2558009548	65.53	528	529	557	Fe-S oxidoreductase	Fe-S oxidoreductase
-2558007381	2558011768	65.84	322	335	319	RNA polymerase sigma factor, cyanobacterial RpoD-like family	RNA polymerase sigma factor, cyanobacterial RpoD-like family
-2558007389	2558012415	32.16	283	306	318	Rhodanese-related sulfurtransferase	thiosulfate sulfurtransferase (EC 2.8.1.1)
-2558007415	2558010288	46.47	1530	1546	1555	Glutamate synthase domain 2	glutamate synthase (ferredoxin) (EC 1.4.7.1)
+2558007381	2558011768	65.839	322	335	319	RNA polymerase sigma factor, cyanobacterial RpoD-like family	RNA polymerase sigma factor, cyanobacterial RpoD-like family
+2558007389	2558012415	32.155	283	306	318	Rhodanese-related sulfurtransferase	thiosulfate sulfurtransferase (EC 2.8.1.1)
+2558007415	2558010288	46.471	1530	1546	1555	Glutamate synthase domain 2	glutamate synthase (ferredoxin) (EC 1.4.7.1)
 2558007425	2558010001	60.87	230	254	236	Uncharacterized membrane protein (homolog of Drosophila rhomboid)	Uncharacterized membrane protein (homolog of Drosophila rhomboid)
-2558007434	2558008020	46.94	294	292	290	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)
-2558007435	2558011445	34.91	464	490	473	zeta-carotene desaturase (EC 1.3.99.26)	phytoene desaturase
-2558007444	2558011750	42.25	258	266	274	Methylase involved in ubiquinone/menaquinone biosynthesis	Methylase involved in ubiquinone/menaquinone biosynthesis
-2558007454	2558012343	81.28	203	204	204	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)	ATP-dependent Clp endopeptidase, proteolytic subunit ClpP
-2558007461	2558013063	49.37	318	326	324	Glycosyltransferases involved in cell wall biogenesis	Predicted glycosyltransferases
-2558007462	2558013238	61.67	287	335	341	Transcriptional regulator	transcriptional regulator, LysR family
-2558007467	2558011605	30.43	391	434	434	glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)	glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)
-2558007475	2558007752	52.61	287	289	293	lipid kinase, YegS/Rv2252/BmrU family	lipid kinase, YegS/Rv2252/BmrU family
-2558007488	2558009692	36.24	712	673	699	glycogen debranching enzyme, archaeal type, putative	Glycogen debranching enzyme
-2558007516	2558011395	48.21	280	317	303	MoxR-like ATPases	MoxR-like ATPases
-2558007542	2558010953	40.29	546	545	551	Predicted membrane protein	Predicted membrane protein
-2558007548	2558008650	49.11	112	111	123	ferredoxin [2Fe-2S]	ferredoxin [2Fe-2S]
-2558007551	2558013412	43.55	186	197	217	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
-2558007555	2558010671	70.21	517	529	530	Fe-S oxidoreductase	Fe-S oxidoreductase
-2558007576	2558011830	58.4	250	249	258	phage shock protein A (PspA) family protein	phage shock protein A (PspA) family protein
-2558007577	2558012584	35.35	331	327	330	DNA polymerase III, delta subunit (EC 2.7.7.7)	DNA polymerase III, delta subunit (EC 2.7.7.7)
-2558007579	2558009151	40.19	214	222	210	precorrin-8X methylmutase (EC 5.4.1.2)	precorrin-8X methylmutase (EC 5.4.1.2)
-2558007582	2558013067	75.81	215	247	264	NADH dehydrogenase subunit B (EC 1.6.5.3)	NADH-quinone oxidoreductase, B subunit
-2558007586	2558010642	39.84	251	254	263	Parvulin-like peptidyl-prolyl isomerase	Parvulin-like peptidyl-prolyl isomerase
-2558007587	2558010641	60.61	848	843	846	type I secretion system ABC transporter, HlyB family	type I secretion system ABC transporter, HlyB family
-2558007624	2558009787	52.9	138	150	151	Fe2+/Zn2+ uptake regulation proteins	Fe2+/Zn2+ uptake regulation proteins
+2558007434	2558008020	46.939	294	292	290	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)
+2558007435	2558011445	36.515	482	490	473	zeta-carotene desaturase (EC 1.3.99.26)	phytoene desaturase
+2558007444	2558011750	42.248	258	266	274	Methylase involved in ubiquinone/menaquinone biosynthesis	Methylase involved in ubiquinone/menaquinone biosynthesis
+2558007454	2558012343	81.281	203	204	204	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)	ATP-dependent Clp endopeptidase, proteolytic subunit ClpP
+2558007461	2558013063	49.371	318	326	324	Glycosyltransferases involved in cell wall biogenesis	Predicted glycosyltransferases
+2558007462	2558013238	61.672	287	335	341	Transcriptional regulator	transcriptional regulator, LysR family
+2558007467	2558011605	30.843	415	434	434	glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)	glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)
+2558007475	2558007752	52.613	287	289	293	lipid kinase, YegS/Rv2252/BmrU family	lipid kinase, YegS/Rv2252/BmrU family
+2558007488	2558009692	36.492	707	673	699	glycogen debranching enzyme, archaeal type, putative	Glycogen debranching enzyme
+2558007516	2558011395	48.214	280	317	303	MoxR-like ATPases	MoxR-like ATPases
+2558007525	2558009761	57.895	76	96	85	Plasmid maintenance system antidote protein	Plasmid maintenance system antidote protein
+2558007542	2558010953	40.293	546	545	551	Predicted membrane protein	Predicted membrane protein
+2558007548	2558008650	49.107	112	111	123	ferredoxin [2Fe-2S]	ferredoxin [2Fe-2S]
+2558007551	2558013412	43.617	188	197	217	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
+2558007555	2558010671	70.213	517	529	530	Fe-S oxidoreductase	Fe-S oxidoreductase
+2558007576	2558011830	62.162	222	249	258	phage shock protein A (PspA) family protein	phage shock protein A (PspA) family protein
+2558007577	2558012584	35.347	331	327	330	DNA polymerase III, delta subunit (EC 2.7.7.7)	DNA polymerase III, delta subunit (EC 2.7.7.7)
+2558007579	2558009151	40.845	213	222	210	precorrin-8X methylmutase (EC 5.4.1.2)	precorrin-8X methylmutase (EC 5.4.1.2)
+2558007582	2558013067	75.336	223	247	264	NADH dehydrogenase subunit B (EC 1.6.5.3)	NADH-quinone oxidoreductase, B subunit
+2558007586	2558010642	39.841	251	254	263	Parvulin-like peptidyl-prolyl isomerase	Parvulin-like peptidyl-prolyl isomerase
+2558007587	2558010641	60.613	848	843	846	type I secretion system ABC transporter, HlyB family	type I secretion system ABC transporter, HlyB family
+2558007597	2558009686	68.056	288	291	318	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558007624	2558009787	52.899	138	150	151	Fe2+/Zn2+ uptake regulation proteins	Fe2+/Zn2+ uptake regulation proteins
 2558007625	2558012320	36.9	271	288	299	ferredoxin protochlorophyllide reductase subunit L (EC 1.3.7.7)	Mo-nitrogenase iron protein subunit NifH (EC 1.18.6.1)
-2558007633	2558010495	58.92	465	470	466	Cytosine deaminase and related metal-dependent hydrolases	Cytosine deaminase and related metal-dependent hydrolases
-2558007634	2558007635	62.72	338	341	352	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit
-2558007641	2558013023	51.27	158	159	158	TspO and MBR related proteins	TspO and MBR related proteins
-2558007642	2558009575	47.22	324	325	332	Predicted glutathione S-transferase	Predicted glutathione S-transferase
-2558007644	2558011828	41.73	369	405	390	LL-diaminopimelate aminotransferase apoenzyme (EC 2.6.1.83)	Aspartate/tyrosine/aromatic aminotransferase
-2558007647	2558010865	38.21	212	217	225	uracil phosphoribosyltransferase (EC 2.4.2.9)	uracil phosphoribosyltransferase (EC 2.4.2.9)
-2558007659	2558010932	39.8	304	309	305	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)
-2558007663	2558008188	61.84	207	288	294	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558007628	2558008436	41.053	190	193	210	Uncharacterized membrane-associated protein	Uncharacterized membrane-associated protein
+2558007633	2558010495	58.925	465	470	466	Cytosine deaminase and related metal-dependent hydrolases	Cytosine deaminase and related metal-dependent hydrolases
+2558007634	2558007635	62.722	338	341	352	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit
+2558007641	2558013023	51.266	158	159	158	TspO and MBR related proteins	TspO and MBR related proteins
+2558007642	2558009575	47.222	324	325	332	Predicted glutathione S-transferase	Predicted glutathione S-transferase
+2558007644	2558011828	41.734	369	405	390	LL-diaminopimelate aminotransferase apoenzyme (EC 2.6.1.83)	Aspartate/tyrosine/aromatic aminotransferase
+2558007647	2558010865	38.208	212	217	225	uracil phosphoribosyltransferase (EC 2.4.2.9)	uracil phosphoribosyltransferase (EC 2.4.2.9)
+2558007659	2558010932	39.803	304	309	305	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)
+2558007663	2558008188	57.966	295	288	294	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558007671	2558012840	48.485	462	451	504	type I secretion C-terminal target domain (VC_A0849 subclass)	Phospholipase/lecithinase/hemolysin
 2558007683	2558009723	57.5	120	130	133	AbrB-like transcriptional regulator	transcriptional regulator, AbrB family
-2558007684	2558012452	70.09	428	468	464	Mg2+ transporter (mgtE)	Mg2+ transporter (mgtE)
-2558007700	2558009121	66.71	826	838	826	ATPases with chaperone activity, ATP-binding subunit	ATPases with chaperone activity, ATP-binding subunit
-2558007702	2558011890	53.07	505	500	504	4-alpha-glucanotransferase	4-alpha-glucanotransferase (EC 2.4.1.25)
-2558007705	2558012000	35.09	1382	1609	1465	PAS domain S-box	PAS domain S-box
-2558007710	2558013368	43.41	910	923	882	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
-2558007716	2558011773	78.1	105	108	107	thioredoxin	thioredoxin
-2558007718	2558007729	58.86	491	454	540	Domain of unknown function (DUF4347)	CSLREA domain
-2558007720	2558010026	45.76	1204	1191	1198	FOG: WD40 repeat	FOG: WD40 repeat
-2558007726	2558010604	48.94	376	416	418	RND family efflux transporter, MFP subunit	RND family efflux transporter, MFP subunit
-2558007727	2558008023	53.46	1025	1085	1056	The (Largely Gram-negative Bacterial) Hydrophobe/Amphiphile Efflux-1 (HAE1) Family	The (Largely Gram-negative Bacterial) Hydrophobe/Amphiphile Efflux-1 (HAE1) Family
-2558007734	2558008576	39.69	572	592	601	Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella/Hemolysin-type calcium-binding repeat (2 copies)/FG-GAP repeat	Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella
-2558007750	2558011814	31.83	509	617	597	GTP-binding protein LepA	GTP-binding protein TypA/BipA
-2558007756	2558010652	31.56	263	278	305	1,4-Dihydroxy-2-naphthoyl-CoA synthase (EC 4.1.3.36)	Enoyl-CoA hydratase/carnithine racemase
+2558007684	2558012452	69.079	456	468	464	Mg2+ transporter (mgtE)	Mg2+ transporter (mgtE)
+2558007685	2558009252	43.395	1143	1115	1037	Domain of unknown function (DUF4347)/Hemolysin-type calcium-binding repeat (2 copies)	Domain of unknown function (DUF4347)/Hemolysin-type calcium-binding repeat (2 copies)
+2558007696	2558007832	35.205	1051	985	1277	FOG: WD40 repeat	FOG: WD40 repeat
+2558007700	2558009121	66.707	826	838	826	ATPases with chaperone activity, ATP-binding subunit	ATPases with chaperone activity, ATP-binding subunit
+2558007702	2558011890	53.069	505	500	504	4-alpha-glucanotransferase	4-alpha-glucanotransferase (EC 2.4.1.25)
+2558007707	2558011966	52.033	123	166	166	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
+2558007710	2558013368	43.407	910	923	882	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
+2558007716	2558011773	78.095	105	108	107	thioredoxin	thioredoxin
+2558007718	2558007729	62.971	478	454	540	Domain of unknown function (DUF4347)	CSLREA domain
+2558007720	2558010026	45.764	1204	1191	1198	FOG: WD40 repeat	FOG: WD40 repeat
+2558007726	2558010604	46.651	418	416	418	RND family efflux transporter, MFP subunit	RND family efflux transporter, MFP subunit
+2558007727	2558008023	53.463	1025	1085	1056	The (Largely Gram-negative Bacterial) Hydrophobe/Amphiphile Efflux-1 (HAE1) Family	The (Largely Gram-negative Bacterial) Hydrophobe/Amphiphile Efflux-1 (HAE1) Family
+2558007734	2558008576	39.685	572	592	601	Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella/Hemolysin-type calcium-binding repeat (2 copies)/FG-GAP repeat	Repeat domain in Vibrio, Colwellia, Bradyrhizobium and Shewanella
+2558007750	2558011814	31.827	509	617	597	GTP-binding protein LepA	GTP-binding protein TypA/BipA
+2558007756	2558010652	31.559	263	278	305	1,4-Dihydroxy-2-naphthoyl-CoA synthase (EC 4.1.3.36)	Enoyl-CoA hydratase/carnithine racemase
 2558007766	2558010189	57.59	639	603	638	ATPase components of various ABC-type transport systems, contain duplicated ATPase	ATPase components of various ABC-type transport systems, contain duplicated ATPase
-2558007776	2558011453	49.62	262	264	267	Methyltransferase FkbM domain	methyltransferase, FkbM family
-2558007778	2558009541	55.25	257	258	308	glucose-1-phosphate cytidylyltransferase	glucose-1-phosphate cytidylyltransferase
-2558007780	2558009540	47.06	323	342	338	Nucleoside-diphosphate-sugar epimerases	Nucleoside-diphosphate-sugar epimerases
-2558007781	2558013275	61.9	168	180	195	dTDP-4-dehydrorhamnose 3,5-epimerase	dTDP-4-dehydrorhamnose 3,5-epimerase
-2558007795	2558010431	55.51	236	269	255	Parvulin-like peptidyl-prolyl isomerase	Parvulin-like peptidyl-prolyl isomerase
-2558007796	2558008826	33.56	289	281	319	Predicted phosphohydrolases	Predicted phosphohydrolases
-2558007797	2558013271	35.73	736	780	713	capsular exopolysaccharide family	capsular exopolysaccharide family
-2558007801	2558009881	51.89	106	110	114	Tic20-like protein	Tic20-like protein
-2558007803	2558009441	71.43	84	105	88	Glutaredoxin, GrxC family	Glutaredoxin, GrxC family
-2558007832	2558008840	32.25	1203	1277	1336	FOG: WD40 repeat	FOG: WD40 repeat
-2558007850	2558008471	49.77	221	219	222	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558007861	2558011746	32.3	291	330	344	Heme/copper-type cytochrome/quinol oxidases, subunit 2	Heme/copper-type cytochrome/quinol oxidases, subunit 2
-2558007862	2558011747	54.76	546	561	578	cytochrome c oxidase, subunit I	cytochrome c oxidase, subunit I
-2558007863	2558011748	43.28	201	203	207	Heme/copper-type cytochrome/quinol oxidase, subunit 3	Heme/copper-type cytochrome/quinol oxidase, subunit 3
-2558007867	2558009795	89.8	343	344	344	L-glutaminase (EC 3.5.1.2)	L-glutaminase (EC 3.5.1.2)
-2558007868	2558009793	63.07	723	722	723	FOG: PAS/PAC domain	PAS domain S-box
-2558007869	2558009698	37.39	222	231	230	Biopolymer transport proteins	Biopolymer transport proteins
-2558007875	2558010187	33.45	278	316	305	Transcriptional regulator/sugar kinase	Transcriptional regulator/sugar kinase
-2558007881	2558009352	34.1	173	174	179	Acetyltransferases, including N-acetylases of ribosomal proteins	Acetyltransferases, including N-acetylases of ribosomal proteins
-2558007898	2558012062	34.72	337	362	386	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit
-2558007900	2558013259	41.74	333	327	317	NADPH:quinone reductase and related Zn-dependent oxidoreductases	NADPH:quinone reductase and related Zn-dependent oxidoreductases
-2558007907	2558011870	57.14	91	93	92	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
+2558007776	2558011453	49.618	262	264	267	Methyltransferase FkbM domain	methyltransferase, FkbM family
+2558007778	2558009541	55.253	257	258	308	glucose-1-phosphate cytidylyltransferase	glucose-1-phosphate cytidylyltransferase
+2558007780	2558009540	47.059	323	342	338	Nucleoside-diphosphate-sugar epimerases	Nucleoside-diphosphate-sugar epimerases
+2558007781	2558013275	61.905	168	180	195	dTDP-4-dehydrorhamnose 3,5-epimerase	dTDP-4-dehydrorhamnose 3,5-epimerase
+2558007795	2558010431	55.508	236	269	255	Parvulin-like peptidyl-prolyl isomerase	Parvulin-like peptidyl-prolyl isomerase
+2558007796	2558008826	33.564	289	281	319	Predicted phosphohydrolases	Predicted phosphohydrolases
+2558007797	2558013271	35.734	736	780	713	capsular exopolysaccharide family	capsular exopolysaccharide family
+2558007801	2558009881	51.887	106	110	114	Tic20-like protein	Tic20-like protein
+2558007803	2558009441	71.429	84	105	88	Glutaredoxin, GrxC family	Glutaredoxin, GrxC family
+2558007812	2558012188	36.178	539	613	581	Small-conductance mechanosensitive channel	Small-conductance mechanosensitive channel
+2558007823	2558011203	30.481	187	239	230	RNAse III (EC 3.1.26.3)	ribonuclease III, bacterial
+2558007850	2558008471	49.774	221	219	222	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558007861	2558011746	32.646	291	330	344	Heme/copper-type cytochrome/quinol oxidases, subunit 2	Heme/copper-type cytochrome/quinol oxidases, subunit 2
+2558007862	2558011747	54.762	546	561	578	cytochrome c oxidase, subunit I	cytochrome c oxidase, subunit I
+2558007863	2558011748	43.284	201	203	207	Heme/copper-type cytochrome/quinol oxidase, subunit 3	Heme/copper-type cytochrome/quinol oxidase, subunit 3
+2558007867	2558009795	89.796	343	344	344	L-glutaminase (EC 3.5.1.2)	L-glutaminase (EC 3.5.1.2)
+2558007868	2558009793	63.071	723	722	723	FOG: PAS/PAC domain	PAS domain S-box
+2558007869	2558009698	43.243	222	231	230	Biopolymer transport proteins	Biopolymer transport proteins
+2558007875	2558010187	33.453	278	316	305	Transcriptional regulator/sugar kinase	Transcriptional regulator/sugar kinase
+2558007881	2558009352	34.104	173	174	179	Acetyltransferases, including N-acetylases of ribosomal proteins	Acetyltransferases, including N-acetylases of ribosomal proteins
+2558007898	2558012062	36.202	337	362	386	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit	Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases, large terminal subunit
+2558007900	2558013259	41.742	333	327	317	NADPH:quinone reductase and related Zn-dependent oxidoreductases	NADPH:quinone reductase and related Zn-dependent oxidoreductases
+2558007907	2558011870	57.143	91	93	92	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
 2558007915	2558008181	100	70	79	71	Transposase and inactivated derivatives	Transposase and inactivated derivatives
-2558007918	2558013106	65.92	1068	1088	1098	Cation/multidrug efflux pump	Cation/multidrug efflux pump
-2558007924	2558008906	45.32	139	144	141	hypothetical protein	hypothetical protein
-2558007925	2558013403	71.98	828	840	809	phosphoenolpyruvate synthase (EC 2.7.9.2)	phosphoenolpyruvate synthase (EC 2.7.9.2)
-2558007941	2558012685	50.57	615	625	623	ABC-type multidrug transport system, ATPase and permease components	ABC-type multidrug transport system, ATPase and permease components
-2558007952	2558010863	61.03	213	214	216	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558007957	2558012709	47.82	1905	1855	2107	Predicted ATPase	Predicted ATPase
-2558007972	2558009242	41.86	516	644	604	PTS system D-glucose-specific IIB component, Glc family (TC 4.A.1.1.1)/PTS system D-glucose-specific IIC component, Glc family (TC 4.A.1.1.1)	PTS system N-acetylglucosamine-specific IIB component, Glc family (TC 4.A.1.1.2)/PTS system N-acetylglucosamine-specific IIC component, Glc family (TC 4.A.1.1.2)
-2558007981	2558011612	62.29	358	359	359	Mg-protoporphyrin IX monomethyl ester (oxidative) cyclase (EC 1.14.13.81)	Mg-protoporphyrin IX monomethyl ester (oxidative) cyclase (EC 1.14.13.81)
-2558007984	2558011167	56.79	280	282	289	Uncharacterized conserved protein	Uncharacterized conserved protein
-2558007990	2558008962	59.22	255	285	295	Heat shock protein. Metallo peptidase. MEROPS family M48B	Zn-dependent protease with chaperone function
-2558008018	2558011455	42.54	134	145	152	ADP-ribose pyrophosphatase	ADP-ribose pyrophosphatase
-2558008031	2558008033	55.84	308	313	321	Glycosyltransferases involved in cell wall biogenesis	Glycosyltransferases involved in cell wall biogenesis
-2558008040	2558012624	53.16	237	239	237	two component transcriptional regulator, LuxR family	two component transcriptional regulator, LuxR family
+2558007918	2558013106	66.199	1068	1088	1098	Cation/multidrug efflux pump	Cation/multidrug efflux pump
+2558007924	2558008906	45.324	139	144	141	hypothetical protein	hypothetical protein
+2558007925	2558013403	71.981	828	840	809	phosphoenolpyruvate synthase (EC 2.7.9.2)	phosphoenolpyruvate synthase (EC 2.7.9.2)
+2558007931	2558010655	33.333	414	497	505	Predicted membrane-associated Zn-dependent proteases 1	Predicted membrane-associated Zn-dependent proteases 1
+2558007941	2558012685	50.569	615	625	623	ABC-type multidrug transport system, ATPase and permease components	ABC-type multidrug transport system, ATPase and permease components
+2558007952	2558010863	61.033	213	214	216	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558007957	2558012709	48.346	1905	1855	2107	Predicted ATPase	Predicted ATPase
+2558007972	2558009242	38.438	666	644	604	PTS system D-glucose-specific IIB component, Glc family (TC 4.A.1.1.1)/PTS system D-glucose-specific IIC component, Glc family (TC 4.A.1.1.1)	PTS system N-acetylglucosamine-specific IIB component, Glc family (TC 4.A.1.1.2)/PTS system N-acetylglucosamine-specific IIC component, Glc family (TC 4.A.1.1.2)
+2558007981	2558011612	62.291	358	359	359	Mg-protoporphyrin IX monomethyl ester (oxidative) cyclase (EC 1.14.13.81)	Mg-protoporphyrin IX monomethyl ester (oxidative) cyclase (EC 1.14.13.81)
+2558007984	2558011167	57.5	280	282	289	Uncharacterized conserved protein	Uncharacterized conserved protein
+2558007990	2558008962	58.865	282	285	295	Heat shock protein. Metallo peptidase. MEROPS family M48B	Zn-dependent protease with chaperone function
+2558008018	2558011455	42.537	134	145	152	ADP-ribose pyrophosphatase	ADP-ribose pyrophosphatase
+2558008031	2558008033	55.844	308	313	321	Glycosyltransferases involved in cell wall biogenesis	Glycosyltransferases involved in cell wall biogenesis
+2558008040	2558012624	53.165	237	239	237	two component transcriptional regulator, LuxR family	two component transcriptional regulator, LuxR family
 2558008041	2558011802	75	60	61	69	CsbD-like	Uncharacterized protein conserved in bacteria
 2558008044	2558008231	70.69	58	61	62	Uncharacterized homolog of Blt101	Uncharacterized homolog of Blt101
-2558008054	2558011104	38.67	375	366	381	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	DNA-binding HTH domain-containing proteins
-2558008061	2558008230	67.83	115	125	139	Predicted membrane protein	Predicted membrane protein
-2558008078	2558008079	77.48	151	153	153	Domain of unknown function DUF29	Domain of unknown function DUF29
-2558008081	2558012479	50.87	346	383	343	Predicted permease	Predicted permease
-2558008086	2558012398	49.19	185	211	194	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
-2558008088	2558008898	48.32	238	244	258	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)
-2558008116	2558008253	30.2	255	310	324	Predicted membrane protein	Predicted membrane protein
+2558008047	2558010393	51.899	79	83	92	hypothetical protein	hypothetical protein
+2558008054	2558011104	38.667	375	366	381	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	DNA-binding HTH domain-containing proteins
+2558008061	2558008230	67.826	115	125	139	Predicted membrane protein	Predicted membrane protein
+2558008078	2558008079	77.483	151	153	153	Domain of unknown function DUF29	Domain of unknown function DUF29
+2558008081	2558012479	50.867	346	383	343	Predicted permease	Predicted permease
+2558008086	2558012398	49.189	185	211	194	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+2558008088	2558008898	48.319	238	244	258	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)
+2558008104	2558013058	43.321	524	673	561	Hemolysin activation/secretion protein	Hemolysin activation/secretion protein
+2558008116	2558008253	32.143	308	310	324	Predicted membrane protein	Predicted membrane protein
+2558008124	2558008125	44.838	649	676	595	hypothetical protein	hypothetical protein
 2558008131	2558013138	50	304	328	332	Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)
-2558008137	2558009806	46.43	280	305	291	lipoate synthase	lipoate synthase
-2558008162	2558012590	36.39	415	401	500	DNA polymerase III, beta subunit (EC 2.7.7.7)	DNA polymerase III, beta subunit
-2558008168	2558010574	94.87	78	79	79	Uncharacterized conserved protein	Uncharacterized conserved protein
-2558008184	2558011204	43.12	385	389	386	Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes	Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes
-2558008189	2558012983	33.95	380	391	397	8-amino-7-oxononanoate synthase (EC 2.3.1.47)	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
-2558008201	2558011614	67.14	280	281	283	nitrate transport ATP-binding subunits C and D	nitrate transport ATP-binding subunits C and D
-2558008202	2558011615	63.75	662	669	667	nitrate transport ATP-binding subunits C and D	nitrate transport ATP-binding subunits C and D
-2558008203	2558011616	60.53	228	279	281	nitrate ABC transporter, permease protein	nitrate ABC transporter, permease protein
-2558008204	2558011617	50.45	448	442	452	ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
+2558008132	2558009416	31.655	139	129	144	Predicted transcriptional regulators	Predicted transcriptional regulators
+2558008137	2558009806	46.429	280	305	291	lipoate synthase	lipoate synthase
+2558008162	2558012590	36.386	415	401	500	DNA polymerase III, beta subunit (EC 2.7.7.7)	DNA polymerase III, beta subunit
+2558008168	2558010574	94.872	78	79	79	Uncharacterized conserved protein	Uncharacterized conserved protein
+2558008184	2558011204	43.117	385	389	386	Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes	Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes
+2558008189	2558012983	33.947	380	391	397	8-amino-7-oxononanoate synthase (EC 2.3.1.47)	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+2558008192	2558009953	74.879	207	245	284	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558008201	2558011614	67.143	280	281	283	nitrate transport ATP-binding subunits C and D	nitrate transport ATP-binding subunits C and D
+2558008202	2558011615	63.746	662	669	667	nitrate transport ATP-binding subunits C and D	nitrate transport ATP-binding subunits C and D
+2558008203	2558011616	60.219	274	279	281	nitrate ABC transporter, permease protein	nitrate ABC transporter, permease protein
+2558008204	2558011617	50.446	448	442	452	ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components
 2558008213	2558008214	56.14	285	290	273	Phycobilisome Linker polypeptide/CpcD/allophycocyanin linker domain	Phycobilisome Linker polypeptide/CpcD/allophycocyanin linker domain
-2558008215	2558012271	90.74	162	163	163	phycocyanin, alpha subunit	phycocyanin, alpha subunit
-2558008216	2558012272	82.56	172	173	173	phycocyanin, beta subunit	phycocyanin, beta subunit
-2558008218	2558012701	61.48	122	129	127	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains
-2558008222	2558012836	49.6	506	507	469	hypothetical protein	hypothetical protein
-2558008226	2558009803	50.66	152	160	183	Predicted membrane protein	Predicted membrane protein
-2558008238	2558009106	38.58	451	472	487	amidohydrolase, AtzE family	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A (EC 6.3.5.-)
-2558008241	2558010274	32.77	711	680	707	translation elongation factor 2 (EF-2/EF-G)	translation elongation factor 2 (EF-2/EF-G)
+2558008215	2558012271	90.741	162	163	163	phycocyanin, alpha subunit	phycocyanin, alpha subunit
+2558008216	2558012272	82.558	172	173	173	phycocyanin, beta subunit	phycocyanin, beta subunit
+2558008218	2558012701	61.475	122	129	127	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains
+2558008222	2558012836	50.791	506	507	469	hypothetical protein	hypothetical protein
+2558008223	2558010650	35.533	197	405	466	Protein of unknown function (DUF1822)	Protein of unknown function (DUF1822)
+2558008226	2558009803	50.658	152	160	183	Predicted membrane protein	Predicted membrane protein
+2558008232	2558009264	31.23	317	317	268	hypothetical protein	hypothetical protein
+2558008238	2558009106	38.581	451	472	487	amidohydrolase, AtzE family	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A (EC 6.3.5.-)
+2558008241	2558010274	33.052	711	680	707	translation elongation factor 2 (EF-2/EF-G)	translation elongation factor 2 (EF-2/EF-G)
 2558008255	2558009066	56.37	832	868	867	Alpha/beta hydrolase of unknown function (DUF1400)/Acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase	Predicted choloylglycine hydrolase
-2558008256	2558012478	35.1	359	352	361	Predicted permease	Predicted permease
-2558008258	2558009933	56.23	1316	1246	1310	Predicted protease of the Abi (CAAX) family	Predicted protease of the Abi (CAAX) family
-2558008273	2558012507	66.56	317	320	319	Orange carotenoid protein, N-terminal/Nuclear transport factor 2 (NTF2) domain	Orange carotenoid protein, N-terminal/Nuclear transport factor 2 (NTF2) domain
-2558008278	2558010065	36.41	368	389	363	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
-2558008285	2558008289	49.21	63	68	66	hypothetical protein	hypothetical protein
-2558008293	2558009112	44.39	223	236	251	ABC-type branched-chain amino acid transport systems, ATPase component	urea ABC transporter ATP-binding protein
-2558008294	2558009113	36.23	265	286	294	ABC-type branched-chain amino acid transport systems, ATPase component	urea ABC transporter, ATP-binding protein UrtD
-2558008298	2558010023	43.98	332	332	318	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ-class molecular chaperone with C-terminal Zn finger domain
-2558008330	2558011877	57.39	115	118	117	hypothetical protein	hypothetical protein
-2558008335	2558008727	55.43	92	96	106	hypothetical protein	hypothetical protein
-2558008338	2558013480	64.76	210	212	211	Acyl carrier protein phosphodiesterase	Acyl carrier protein phosphodiesterase
-2558008340	2558013306	32.86	496	513	490	gluconate kinase, FGGY family (EC 2.7.1.12)	xylulokinase (EC 2.7.1.17)
-2558008342	2558013201	74.03	231	271	275	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558008345	2558012812	42.62	826	789	825	AAA ATPase domain	NB-ARC domain
-2558008347	2558008403	77.53	89	92	92	bacterial nucleoid protein Hbs	Bacterial nucleoid DNA-binding protein
-2558008349	2558009006	41.28	298	321	297	Transcriptional regulator	transcriptional regulator, LysR family
-2558008356	2558013085	45.4	511	507	499	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
-2558008369	2558011473	36.59	205	222	232	HEAT repeats	HEAT repeats
-2558008371	2558012313	75.98	179	186	183	DNA-binding ferritin-like protein (oxidative damage protectant)	DNA-binding ferritin-like protein (oxidative damage protectant)
-2558008388	2558011639	30.13	448	420	446	transaminase, acetylornithine/succinylornithine family	4-aminobutyrate aminotransferase and related aminotransferases
-2558008415	2558010605	31.21	439	447	427	CemA family	CemA family
-2558008424	2558009740	31.93	332	360	300	fructose-bisphosphate aldolase (EC 4.1.2.13)	ketose-bisphosphate aldolase
-2558008430	2558011923	43.54	441	457	455	Multidrug resistance efflux pump	Multidrug resistance efflux pump
-2558008431	2558011922	57.64	713	752	714	bacteriocin-processing peptidase. Cysteine peptidase. MEROPS family C39	bacteriocin-processing peptidase. Cysteine peptidase. MEROPS family C39
-2558008448	2558010076	37.01	127	127	129	hypothetical protein	hypothetical protein
-2558008462	2558012809	48.89	180	191	200	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558008466	2558009565	48.8	332	436	369	ABC exporter membrane fusion protein, DevB family	ABC exporter membrane fusion protein, DevB family
-2558008469	2558009566	46.06	393	384	392	DevC protein	DevC protein
-2558008470	2558008537	67.12	222	241	240	ABC exporter ATP-binding subunit, DevA family	ABC exporter ATP-binding subunit, DevA family
-2558008477	2558011559	33.58	548	577	647	ATPase components of ABC transporters with duplicated ATPase domains	ATPase components of ABC transporters with duplicated ATPase domains
-2558008516	2558009789	51.95	462	471	462	Predicted Zn-dependent proteases and their inactivated homologs	Predicted Zn-dependent proteases and their inactivated homologs
-2558008540	2558012444	30.9	178	195	181	Predicted transcriptional regulators	transcriptional regulator, PadR family
-2558008566	2558009693	33.33	180	213	204	Peroxiredoxin	Peroxiredoxin
-2558008567	2558013182	52.48	101	107	98	hypothetical protein	hypothetical protein
-2558008578	2558011123	33.52	176	194	183	Peroxiredoxin	Peroxiredoxin
+2558008256	2558012478	35.097	359	352	361	Predicted permease	Predicted permease
+2558008258	2558009933	56.611	1316	1246	1310	Predicted protease of the Abi (CAAX) family	Predicted protease of the Abi (CAAX) family
+2558008273	2558012507	66.562	317	320	319	Orange carotenoid protein, N-terminal/Nuclear transport factor 2 (NTF2) domain	Orange carotenoid protein, N-terminal/Nuclear transport factor 2 (NTF2) domain
+2558008278	2558010065	36.413	368	389	363	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+2558008285	2558008289	49.206	63	68	66	hypothetical protein	hypothetical protein
+2558008286	2558008288	35.069	288	357	401	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
+2558008293	2558009112	44.395	223	236	251	ABC-type branched-chain amino acid transport systems, ATPase component	urea ABC transporter ATP-binding protein
+2558008294	2558009113	35.714	266	286	294	ABC-type branched-chain amino acid transport systems, ATPase component	urea ABC transporter, ATP-binding protein UrtD
+2558008298	2558010023	43.976	332	332	318	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ-class molecular chaperone with C-terminal Zn finger domain
+2558008330	2558011877	57.391	115	118	117	hypothetical protein	hypothetical protein
+2558008335	2558008727	55.435	92	96	106	hypothetical protein	hypothetical protein
+2558008338	2558013480	64.762	210	212	211	Acyl carrier protein phosphodiesterase	Acyl carrier protein phosphodiesterase
+2558008340	2558013306	33.065	496	513	490	gluconate kinase, FGGY family (EC 2.7.1.12)	xylulokinase (EC 2.7.1.17)
+2558008342	2558013201	74.026	231	271	275	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558008345	2558012812	42.857	826	789	825	AAA ATPase domain	NB-ARC domain
+2558008347	2558008403	77.528	89	92	92	bacterial nucleoid protein Hbs	Bacterial nucleoid DNA-binding protein
+2558008349	2558009006	41.275	298	321	297	Transcriptional regulator	transcriptional regulator, LysR family
+2558008352	2558010631	45.175	715	718	690	FOG: WD40 repeat	FOG: WD40 repeat
+2558008356	2558013085	45.401	511	507	499	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1
+2558008360	2558013186	45.708	466	885	906	Bacteriophytochrome (light-regulated signal transduction histidine kinase)	PAS domain S-box
+2558008367	2558013338	36.364	143	139	146	hypothetical protein	hypothetical protein
+2558008369	2558011473	35.981	214	222	232	HEAT repeats	HEAT repeats
+2558008371	2558012313	75.978	179	186	183	DNA-binding ferritin-like protein (oxidative damage protectant)	DNA-binding ferritin-like protein (oxidative damage protectant)
+2558008388	2558011639	30.769	442	420	446	transaminase, acetylornithine/succinylornithine family	4-aminobutyrate aminotransferase and related aminotransferases
+2558008415	2558010605	31.207	439	447	427	CemA family	CemA family
+2558008424	2558009740	31.928	332	360	300	fructose-bisphosphate aldolase (EC 4.1.2.13)	ketose-bisphosphate aldolase
+2558008430	2558011923	43.956	455	457	455	Multidrug resistance efflux pump	Multidrug resistance efflux pump
+2558008431	2558011922	57.644	713	752	714	bacteriocin-processing peptidase. Cysteine peptidase. MEROPS family C39	bacteriocin-processing peptidase. Cysteine peptidase. MEROPS family C39
+2558008444	2558011807	38.462	130	189	179	Myosin N-terminal SH3-like domain	hypothetical protein
+2558008448	2558010076	37.008	127	127	129	hypothetical protein	hypothetical protein
+2558008462	2558012809	48.889	180	191	200	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558008469	2558009566	46.056	393	384	392	DevC protein	DevC protein
+2558008470	2558008537	63.598	239	241	240	ABC exporter ATP-binding subunit, DevA family	ABC exporter ATP-binding subunit, DevA family
+2558008477	2558011559	33.577	548	577	647	ATPase components of ABC transporters with duplicated ATPase domains	ATPase components of ABC transporters with duplicated ATPase domains
+2558008516	2558009789	51.948	462	471	462	Predicted Zn-dependent proteases and their inactivated homologs	Predicted Zn-dependent proteases and their inactivated homologs
+2558008540	2558012444	30.899	178	195	181	Predicted transcriptional regulators	transcriptional regulator, PadR family
+2558008566	2558009693	33.333	180	213	204	Peroxiredoxin	Peroxiredoxin
+2558008567	2558013182	52.475	101	107	98	hypothetical protein	hypothetical protein
+2558008578	2558011123	33.523	176	194	183	Peroxiredoxin	Peroxiredoxin
 2558008587	2558008589	47.3	463	513	491	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase/Cyclic nucleotide-binding domain	Signal transduction histidine kinase
-2558008603	2558008612	98.86	88	88	100	hypothetical protein	hypothetical protein
-2558008604	2558008613	53.9	1076	1069	1082	FOG: WD40 repeat	FOG: WD40 repeat
-2558008606	2558010921	32.63	475	543	541	Monoamine oxidase	Monoamine oxidase
-2558008622	2558011393	52.22	293	323	308	Metal-dependent hydrolases of the beta-lactamase superfamily I	Metal-dependent hydrolases of the beta-lactamase superfamily I
-2558008629	2558011258	86.88	526	543	546	chaperonin GroL	chaperonin GroL
+2558008603	2558008612	98.864	88	88	100	hypothetical protein	hypothetical protein
+2558008604	2558008613	53.903	1076	1069	1082	FOG: WD40 repeat	FOG: WD40 repeat
+2558008606	2558010921	32.696	471	543	541	Monoamine oxidase	Monoamine oxidase
+2558008622	2558011393	52.56	293	323	308	Metal-dependent hydrolases of the beta-lactamase superfamily I	Metal-dependent hydrolases of the beta-lactamase superfamily I
+2558008629	2558011258	86.004	543	543	546	chaperonin GroL	chaperonin GroL
 2558008630	2558011257	75.49	102	104	104	Co-chaperonin GroES (HSP10)	Co-chaperonin GroES (HSP10)
-2558008632	2558011924	48.06	129	178	157	Molecular chaperone (small heat shock protein)	Molecular chaperone (small heat shock protein)
-2558008646	2558010454	51.05	333	332	336	AraC-type DNA-binding domain-containing proteins	AraC-type DNA-binding domain-containing proteins
+2558008632	2558011924	48.951	143	178	157	Molecular chaperone (small heat shock protein)	Molecular chaperone (small heat shock protein)
+2558008646	2558010454	51.051	333	332	336	AraC-type DNA-binding domain-containing proteins	AraC-type DNA-binding domain-containing proteins
+2558008651	2558010047	33.333	249	279	269	Archaeal fructose-1,6-bisphosphatase and related enzymes of inositol monophosphatase family	Archaeal fructose-1,6-bisphosphatase and related enzymes of inositol monophosphatase family
 2558008652	2558011229	35.74	277	319	300	DnaJ-class molecular chaperone with C-terminal Zn finger domain	DnaJ-class molecular chaperone with C-terminal Zn finger domain
-2558008689	2558008690	70.72	321	322	323	Hemolysin-type calcium-binding repeat (2 copies)	Hemolysin-type calcium-binding repeat (2 copies)
-2558008702	2558009487	62.73	432	437	429	Major Facilitator Superfamily	Major Facilitator Superfamily
-2558008704	2558011577	50.77	130	138	125	Predicted metal-binding protein	Predicted metal-binding protein
-2558008726	2558012442	52.63	266	315	289	Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain	Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain
-2558008728	2558011572	64.08	206	210	211	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558008731	2558011520	48.64	405	460	462	putative efflux protein, MATE family	putative efflux protein, MATE family
-2558008737	2558009271	57.72	447	458	499	Signal transduction histidine kinase	Signal transduction histidine kinase
-2558008744	2558008923	43.96	298	375	400	Zn-dependent proteases	Zn-dependent proteases
-2558008746	2558010406	44.2	181	184	175	Bacterial protein of unknown function (DUF937)	Bacterial protein of unknown function (DUF937)
-2558008756	2558011092	49.28	138	140	166	Domain of unknown function DUF29	Domain of unknown function DUF29
-2558008758	2558009069	36.67	120	139	116	hydroxyisourate hydrolase	Transthyretin-like protein
-2558008764	2558009792	51.42	706	743	752	Signal transduction histidine kinase regulating C4-dicarboxylate transport system	Signal transduction histidine kinase regulating C4-dicarboxylate transport system
-2558008766	2558012815	40.77	1332	1260	1276	Serine/threonine protein kinase	Tetratricopeptide repeat/AAA-like domain/Protein kinase domain
-2558008794	2558013235	45.31	64	62	67	Ribbon-helix-helix protein, copG family	hypothetical protein
-2558008796	2558009368	44.92	256	265	269	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	glucose 1-dehydrogenase (EC 1.1.1.47)
-2558008801	2558009366	59.68	888	906	912	Mannosyl oligosaccharide glucosidase	Mannosyl oligosaccharide glucosidase
-2558008806	2558009538	66.45	304	349	330	ABC-type multidrug transport system, ATPase component	ABC-type multidrug transport system, ATPase component
-2558008807	2558009537	68.38	253	260	284	ABC-type multidrug transport system, permease component	ABC-type multidrug transport system, permease component
-2558008815	2558012201	52.83	547	668	781	Kef-type potassium/proton antiporter, CPA2 family (TC 2.A.37.1)	Kef-type potassium/proton antiporter, CPA2 family (TC 2.A.37.1)
-2558008819	2558012928	29.75	484	476	502	deoxyribodipyrimidine photo-lyase type I	deoxyribodipyrimidine photo-lyase (single-stranded DNA-specific)
-2558008830	2558011708	34.79	687	836	798	Alpha-glucosidases, family 31 of glycosyl hydrolases	Alpha-glucosidases, family 31 of glycosyl hydrolases
-2558008849	2558013062	47.73	176	187	210	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558008860	2558008861	46.29	2264	2247	2303	KR domain/Polyketide synthase dehydratase/Methyltransferase domain/Beta-ketoacyl synthase, N-terminal domain/Alcohol dehydrogenase GroES-like domain/Beta-ketoacyl synthase, C-terminal domain/Zinc-binding dehydrogenase/Phosphopantetheine attachment site	Polyketide synthase modules and related proteins
-2558008862	2558008868	60.14	572	650	587	Beta-ketoacyl synthase, N-terminal domain/Acyl transferase domain/Beta-ketoacyl synthase, C-terminal domain	Beta-ketoacyl synthase, N-terminal domain/Acyl transferase domain/Beta-ketoacyl synthase, C-terminal domain
-2558008867	2558008870	44.49	1099	1095	1113	amino acid adenylation domain	amino acid adenylation domain
-2558008882	2558008883	52.44	553	559	575	ABC-type uncharacterized transport system, permease and ATPase components	ABC-type uncharacterized transport system, permease and ATPase components
-2558008895	2558009494	44.41	358	357	331	Uncharacterized protein conserved in bacteria containing thioredoxin-like domain	Uncharacterized protein conserved in bacteria containing thioredoxin-like domain
-2558008910	2558010619	47.04	389	389	391	Cupin superfamily protein	Uncharacterized conserved protein
-2558008911	2558009489	43.53	317	335	333	Uncharacterized protein conserved in bacteria containing thioredoxin-like domain	Uncharacterized protein conserved in bacteria containing thioredoxin-like domain
-2558008914	2558009472	60.19	206	218	219	outer membrane transport energization protein ExbB (TC 2.C.1.1.1)	outer membrane transport energization protein ExbB (TC 2.C.1.1.1)
-2558008918	2558009041	97.06	68	69	71	hypothetical protein	hypothetical protein
+2558008689	2558008690	70.717	321	322	323	Hemolysin-type calcium-binding repeat (2 copies)	Hemolysin-type calcium-binding repeat (2 copies)
+2558008702	2558009487	62.731	432	437	429	Major Facilitator Superfamily	Major Facilitator Superfamily
+2558008704	2558011577	50.769	130	138	125	Predicted metal-binding protein	Predicted metal-binding protein
+2558008708	2558008959	51.04	817	857	886	TonB-dependent siderophore receptor	TonB-dependent siderophore receptor
+2558008726	2558012442	52.632	266	315	289	Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain	Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain
+2558008728	2558011572	64.078	206	210	211	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558008731	2558011520	47.333	450	460	462	putative efflux protein, MATE family	putative efflux protein, MATE family
+2558008737	2558009271	57.549	457	458	499	Signal transduction histidine kinase	Signal transduction histidine kinase
+2558008744	2558008923	44.565	368	375	400	Zn-dependent proteases	Zn-dependent proteases
+2558008746	2558010406	49.457	184	184	175	Bacterial protein of unknown function (DUF937)	Bacterial protein of unknown function (DUF937)
+2558008756	2558011092	49.275	138	140	166	Domain of unknown function DUF29	Domain of unknown function DUF29
+2558008758	2558009069	36.667	120	139	116	hydroxyisourate hydrolase	Transthyretin-like protein
+2558008764	2558009792	51.389	720	743	752	Signal transduction histidine kinase regulating C4-dicarboxylate transport system	Signal transduction histidine kinase regulating C4-dicarboxylate transport system
+2558008766	2558012815	42.534	1326	1260	1276	Serine/threonine protein kinase	Tetratricopeptide repeat/AAA-like domain/Protein kinase domain
+2558008767	2558010645	46.137	466	471	423	Transposase and inactivated derivatives, IS30 family	AAA-like domain
+2558008794	2558013235	45.312	64	62	67	Ribbon-helix-helix protein, copG family	hypothetical protein
+2558008796	2558009368	44.922	256	265	269	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	glucose 1-dehydrogenase (EC 1.1.1.47)
+2558008801	2558009366	59.685	888	906	912	Mannosyl oligosaccharide glucosidase	Mannosyl oligosaccharide glucosidase
+2558008806	2558009538	66.447	304	349	330	ABC-type multidrug transport system, ATPase component	ABC-type multidrug transport system, ATPase component
+2558008807	2558009537	68.379	253	260	284	ABC-type multidrug transport system, permease component	ABC-type multidrug transport system, permease component
+2558008815	2558012201	52.042	661	668	781	Kef-type potassium/proton antiporter, CPA2 family (TC 2.A.37.1)	Kef-type potassium/proton antiporter, CPA2 family (TC 2.A.37.1)
+2558008819	2558009641	33.333	465	476	552	deoxyribodipyrimidine photo-lyase type I	Deoxyribodipyrimidine photolyase
+2558008830	2558011708	34.789	687	836	798	Alpha-glucosidases, family 31 of glycosyl hydrolases	Alpha-glucosidases, family 31 of glycosyl hydrolases
+2558008849	2558013062	51.136	176	187	210	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558008860	2558008861	46.533	2293	2247	2303	KR domain/Polyketide synthase dehydratase/Methyltransferase domain/Beta-ketoacyl synthase, N-terminal domain/Alcohol dehydrogenase GroES-like domain/Beta-ketoacyl synthase, C-terminal domain/Zinc-binding dehydrogenase/Phosphopantetheine attachment site	Polyketide synthase modules and related proteins
+2558008862	2558008868	61.263	586	650	587	Beta-ketoacyl synthase, N-terminal domain/Acyl transferase domain/Beta-ketoacyl synthase, C-terminal domain	Beta-ketoacyl synthase, N-terminal domain/Acyl transferase domain/Beta-ketoacyl synthase, C-terminal domain
+2558008882	2558008883	53.165	553	559	575	ABC-type uncharacterized transport system, permease and ATPase components	ABC-type uncharacterized transport system, permease and ATPase components
+2558008895	2558009494	44.413	358	357	331	Uncharacterized protein conserved in bacteria containing thioredoxin-like domain	Uncharacterized protein conserved in bacteria containing thioredoxin-like domain
+2558008910	2558010619	47.044	389	389	391	Cupin superfamily protein	Uncharacterized conserved protein
+2558008911	2558009489	43.533	317	335	333	Uncharacterized protein conserved in bacteria containing thioredoxin-like domain	Uncharacterized protein conserved in bacteria containing thioredoxin-like domain
+2558008914	2558009472	60.194	206	218	219	outer membrane transport energization protein ExbB (TC 2.C.1.1.1)	outer membrane transport energization protein ExbB (TC 2.C.1.1.1)
+2558008918	2558009041	97.059	68	69	71	hypothetical protein	hypothetical protein
 2558008922	2558011400	50	88	89	103	photosystem I reaction center subunit PsaK	photosystem I reaction center subunit PsaK
-2558008927	2558009908	31.56	225	249	222	Dienelactone hydrolase and related enzymes	Dienelactone hydrolase and related enzymes
-2558008938	2558012571	61.43	223	223	246	Uncharacterized iron-regulated protein	Uncharacterized iron-regulated protein
-2558008942	2558009613	42.8	236	230	232	two component transcriptional regulator, LuxR family	two component transcriptional regulator, LuxR family
+2558008927	2558009908	31.556	225	249	222	Dienelactone hydrolase and related enzymes	Dienelactone hydrolase and related enzymes
+2558008938	2558012571	61.435	223	223	246	Uncharacterized iron-regulated protein	Uncharacterized iron-regulated protein
+2558008942	2558009613	42.797	236	230	232	two component transcriptional regulator, LuxR family	two component transcriptional regulator, LuxR family
 2558008957	2558009164	65.99	197	195	197	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558008958	2558009486	50	286	324	330	ABC-type Fe3+-hydroxamate transport system, periplasmic component	ABC-type Fe3+-hydroxamate transport system, periplasmic component
-2558008959	2558013317	54.16	805	886	853	TonB-dependent siderophore receptor	TonB-dependent siderophore receptor
-2558008976	2558009259	66.33	300	306	333	branched-chain amino acid aminotransferase, group I	branched-chain amino acid aminotransferase, group I
-2558009007	2558009479	57.93	164	203	193	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558009038	2558012822	46.39	194	204	206	Glutathione S-transferase	Glutathione S-transferase
-2558009045	2558013307	72.52	433	452	447	NADH dehydrogenase, FAD-containing subunit	NADH dehydrogenase, FAD-containing subunit
-2558009051	2558009591	63.79	116	118	118	Protein of unknown function (DUF1257)	Protein of unknown function (DUF1257)
+2558008958	2558009486	46.855	318	324	330	ABC-type Fe3+-hydroxamate transport system, periplasmic component	ABC-type Fe3+-hydroxamate transport system, periplasmic component
+2558008976	2558009259	66.333	300	306	333	branched-chain amino acid aminotransferase, group I	branched-chain amino acid aminotransferase, group I
+2558008999	2558009107	36.364	176	184	174	hypothetical protein	outer membrane autotransporter barrel domain
+2558009007	2558009479	58.152	184	203	193	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558009038	2558012822	46.392	194	204	206	Glutathione S-transferase	Glutathione S-transferase
+2558009045	2558013307	72.018	436	452	447	NADH dehydrogenase, FAD-containing subunit	NADH dehydrogenase, FAD-containing subunit
+2558009051	2558009591	63.793	116	118	118	Protein of unknown function (DUF1257)	Protein of unknown function (DUF1257)
 2558009057	2558012729	33.76	391	412	410	alanine racemase	alanine racemase
-2558009058	2558010478	34.16	486	491	481	Transcriptional regulators containing a DNA-binding HTH domain and an aminotransferase domain (MocR family) and their eukaryotic orthologs	Transcriptional regulators containing a DNA-binding HTH domain and an aminotransferase domain (MocR family) and their eukaryotic orthologs
-2558009072	2558009073	49.33	375	374	371	Spermidine/putrescine-binding periplasmic protein	Spermidine/putrescine-binding periplasmic protein
-2558009086	2558012958	45.59	873	942	968	Signal transduction histidine kinase	Signal transduction histidine kinase
-2558009087	2558012731	50.99	453	466	471	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
-2558009103	2558012623	47.73	375	381	381	Signal transduction histidine kinase	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
-2558009110	2558011953	62.38	739	1663	1561	FOG: WD40 repeat	FOG: WD40 repeat
-2558009138	2558011090	45.08	386	373	416	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)
-2558009168	2558010523	57.47	174	188	191	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558009190	2558012501	35.7	633	685	728	DNA topoisomerase I (EC 5.99.1.2)	DNA topoisomerase I (EC 5.99.1.2)
-2558009197	2558011595	83.33	42	44	43	hypothetical protein	hypothetical protein
-2558009200	2558010580	51.27	158	165	160	PIN domain	PIN domain
+2558009058	2558010478	34.156	486	491	481	Transcriptional regulators containing a DNA-binding HTH domain and an aminotransferase domain (MocR family) and their eukaryotic orthologs	Transcriptional regulators containing a DNA-binding HTH domain and an aminotransferase domain (MocR family) and their eukaryotic orthologs
+2558009071	2558010816	38.182	275	284	302	ABC-type spermidine/putrescine transport system, permease component I	ABC-type spermidine/putrescine transport system, permease component I
+2558009072	2558009073	51.064	376	374	371	Spermidine/putrescine-binding periplasmic protein	Spermidine/putrescine-binding periplasmic protein
+2558009086	2558012958	45.711	886	942	968	Signal transduction histidine kinase	Signal transduction histidine kinase
+2558009087	2558012731	52.318	453	466	471	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+2558009103	2558012623	47.733	375	381	381	Signal transduction histidine kinase	His Kinase A (phospho-acceptor) domain/Response regulator receiver domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+2558009138	2558011090	45.078	386	373	416	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)
+2558009168	2558010523	56.522	184	188	191	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558009171	2558009672	35.333	150	159	180	DNA-binding ferritin-like protein (oxidative damage protectant)	DNA-binding ferritin-like protein (oxidative damage protectant)
+2558009190	2558012501	35.703	633	685	728	DNA topoisomerase I (EC 5.99.1.2)	DNA topoisomerase I (EC 5.99.1.2)
+2558009197	2558011595	83.333	42	44	43	hypothetical protein	hypothetical protein
+2558009200	2558010580	51.266	158	165	160	PIN domain	PIN domain
 2558009201	2558010581	50.82	61	65	65	hypothetical protein	hypothetical protein
-2558009214	2558010862	30.39	181	182	223	Predicted flavoprotein	arsenical resistance protein ArsH
-2558009215	2558010095	55.7	237	277	255	ATP-dependent Zn proteases	ATP-dependent Zn proteases
-2558009216	2558010094	70.65	368	372	374	ATP-dependent metalloprotease FtsH	ATP-dependent metalloprotease FtsH
-2558009226	2558011162	59.44	180	183	183	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558009235	2558012022	56.3	119	132	136	Fe2+/Zn2+ uptake regulation proteins	Fe2+/Zn2+ uptake regulation proteins
-2558009250	2558009786	41.41	297	280	316	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
-2558009251	2558009767	41.48	352	431	372	pilus retraction protein PilT	pilus retraction protein PilT
-2558009273	2558013420	61.86	118	123	127	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
-2558009282	2558010753	35.96	203	266	250	hypothetical protein	hypothetical protein
-2558009284	2558010751	47.25	728	763	775	TPR repeat/Tetratricopeptide repeat	Cytochrome c biogenesis factor
+2558009211	2558011326	43.59	117	140	114	Cytochrome c, mono- and diheme variants	Cytochrome c, mono- and diheme variants
+2558009214	2558010862	30.387	181	182	223	Predicted flavoprotein	arsenical resistance protein ArsH
+2558009215	2558010095	55.649	239	277	255	ATP-dependent Zn proteases	ATP-dependent Zn proteases
+2558009216	2558010094	70.652	368	372	374	ATP-dependent metalloprotease FtsH	ATP-dependent metalloprotease FtsH
+2558009226	2558011162	59.444	180	183	183	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558009235	2558012022	56.303	119	132	136	Fe2+/Zn2+ uptake regulation proteins	Fe2+/Zn2+ uptake regulation proteins
+2558009250	2558009786	43.463	283	280	316	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
+2558009251	2558009767	41.477	352	431	372	pilus retraction protein PilT	pilus retraction protein PilT
+2558009282	2558010753	32.283	254	266	250	hypothetical protein	hypothetical protein
+2558009284	2558010751	47.115	728	763	775	TPR repeat/Tetratricopeptide repeat	Cytochrome c biogenesis factor
+2558009285	2558010749	49.211	697	789	855	Bacterial cellulose synthase subunit	Bacterial cellulose synthase subunit
 2558009286	2558010748	60	850	878	852	cellulose synthase catalytic subunit (UDP-forming)	cellulose synthase catalytic subunit (UDP-forming)
-2558009296	2558009300	75	424	413	432	Predicted membrane protein	Predicted membrane protein
-2558009305	2558011801	51.12	446	461	454	Membrane protein involved in the export of O-antigen and teichoic acid	Membrane protein involved in the export of O-antigen and teichoic acid
-2558009324	2558010155	61.67	120	122	123	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558009296	2558009300	74.824	425	413	432	Predicted membrane protein	Predicted membrane protein
+2558009305	2558011801	51.345	446	461	454	Membrane protein involved in the export of O-antigen and teichoic acid	Membrane protein involved in the export of O-antigen and teichoic acid
+2558009324	2558010155	61.667	120	122	123	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
 2558009331	2558009473	59.35	123	134	137	outer membrane transport energization protein ExbD (TC 2.C.1.1.1)	outer membrane transport energization protein ExbD (TC 2.C.1.1.1)
 2558009334	2558010918	36	300	309	307	Predicted sugar kinase	Predicted sugar kinase
-2558009341	2558012423	39.39	99	104	99	NIL domain	hypothetical protein
-2558009361	2558010613	47.16	176	177	175	hypothetical protein	hypothetical protein
-2558009363	2558012778	93.29	164	165	165	Predicted membrane protein	Predicted membrane protein
+2558009341	2558012423	39.394	99	104	99	NIL domain	hypothetical protein
+2558009350	2558011482	58.403	238	282	251	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558009361	2558010613	47.159	176	177	175	hypothetical protein	hypothetical protein
+2558009363	2558012778	93.293	164	165	165	Predicted membrane protein	Predicted membrane protein
 2558009369	2558009377	55	240	239	238	hypothetical protein	hypothetical protein
-2558009374	2558009528	67.04	267	268	282	cyanophycinase	cyanophycinase
-2558009385	2558010778	56.07	824	832	823	ATPase, P-type (transporting), HAD superfamily, subfamily IC	ATPase, P-type (transporting), HAD superfamily, subfamily IC
-2558009388	2558011441	69.48	485	526	538	NADH dehydrogenase subunit M (EC 1.6.5.3)	NADH dehydrogenase subunit M (EC 1.6.5.3)
-2558009391	2558009470	70.8	524	538	539	2-isopropylmalate synthase (EC 2.3.3.13)	2-isopropylmalate synthase (EC 2.3.3.13)
-2558009392	2558011235	54.18	395	464	432	C-terminal processing peptidase-2. Serine peptidase. MEROPS family S41A	C-terminal processing peptidase-2. Serine peptidase. MEROPS family S41A
-2558009408	2558011786	60.24	581	576	581	Small-conductance mechanosensitive channel	Small-conductance mechanosensitive channel
-2558009413	2558011486	59.65	114	125	116	Cytotoxic translational repressor of toxin-antitoxin stability system	Cytotoxic translational repressor of toxin-antitoxin stability system
-2558009450	2558012644	64.22	408	421	412	Arabinose efflux permease	Arabinose efflux permease
+2558009374	2558009528	67.041	267	268	282	cyanophycinase	cyanophycinase
+2558009379	2558012782	69.565	161	187	196	Uncharacterized conserved protein	Uncharacterized conserved protein
+2558009385	2558010778	56.311	824	832	823	ATPase, P-type (transporting), HAD superfamily, subfamily IC	ATPase, P-type (transporting), HAD superfamily, subfamily IC
+2558009388	2558011441	68.627	510	526	538	NADH dehydrogenase subunit M (EC 1.6.5.3)	NADH dehydrogenase subunit M (EC 1.6.5.3)
+2558009391	2558009470	70.802	524	538	539	2-isopropylmalate synthase (EC 2.3.3.13)	2-isopropylmalate synthase (EC 2.3.3.13)
+2558009392	2558011235	54.315	394	464	432	C-terminal processing peptidase-2. Serine peptidase. MEROPS family S41A	C-terminal processing peptidase-2. Serine peptidase. MEROPS family S41A
+2558009408	2558011786	60.241	581	576	581	Small-conductance mechanosensitive channel	Small-conductance mechanosensitive channel
+2558009413	2558011486	59.649	114	125	116	Cytotoxic translational repressor of toxin-antitoxin stability system	Cytotoxic translational repressor of toxin-antitoxin stability system
+2558009450	2558012644	64.216	408	421	412	Arabinose efflux permease	Arabinose efflux permease
 2558009469	2558011859	44.5	200	201	196	Putative peptidoglycan-binding domain-containing protein	Putative peptidoglycan-binding domain-containing protein
-2558009474	2558009475	41.04	307	351	349	ABC-type Fe3+-siderophore transport system, permease component	ABC-type Fe3+-siderophore transport system, permease component
-2558009495	2558009502	44.12	340	340	352	ABC-type Fe3+-hydroxamate transport system, periplasmic component	ABC-type Fe3+-hydroxamate transport system, periplasmic component
-2558009496	2558009503	61.75	834	863	904	TonB-dependent siderophore receptor	TonB-dependent siderophore receptor
-2558009497	2558010460	43.15	336	333	338	AraC-type DNA-binding domain-containing proteins	AraC-type DNA-binding domain-containing proteins
-2558009500	2558010461	53.68	855	849	846	TonB-dependent siderophore receptor	TonB-dependent siderophore receptor
-2558009504	2558011580	55.17	319	333	338	transcriptional regulator, AraC family	transcriptional regulator, AraC family
-2558009535	2558013274	44.55	404	407	432	C-methyltransferase C-terminal domain/Putative zinc binding domain/Methyltransferase domain	C-methyltransferase C-terminal domain/Putative zinc binding domain/Methyltransferase domain
-2558009539	2558011284	41.5	453	462	480	Cytochrome P450	Cytochrome P450
+2558009474	2558009475	41.368	307	351	349	ABC-type Fe3+-siderophore transport system, permease component	ABC-type Fe3+-siderophore transport system, permease component
+2558009495	2558009502	43.529	340	340	352	ABC-type Fe3+-hydroxamate transport system, periplasmic component	ABC-type Fe3+-hydroxamate transport system, periplasmic component
+2558009496	2558009503	61.751	834	863	904	TonB-dependent siderophore receptor	TonB-dependent siderophore receptor
+2558009497	2558010460	43.155	336	333	338	AraC-type DNA-binding domain-containing proteins	AraC-type DNA-binding domain-containing proteins
+2558009500	2558010461	53.801	855	849	846	TonB-dependent siderophore receptor	TonB-dependent siderophore receptor
+2558009504	2558011580	55.172	319	333	338	transcriptional regulator, AraC family	transcriptional regulator, AraC family
+2558009510	2558011532	30.208	480	522	428	Nucleoside permease	Nucleoside permease
+2558009515	2558012392	49.434	265	288	271	Membrane protease subunits, stomatin/prohibitin homologs	Membrane protease subunits, stomatin/prohibitin homologs
+2558009535	2558013274	44.554	404	407	432	C-methyltransferase C-terminal domain/Putative zinc binding domain/Methyltransferase domain	C-methyltransferase C-terminal domain/Putative zinc binding domain/Methyltransferase domain
+2558009539	2558011284	41.722	453	462	480	Cytochrome P450	Cytochrome P450
 2558009543	2558009547	46.42	433	421	433	Glycosyltransferases, probably involved in cell wall biogenesis	Glycosyltransferases, probably involved in cell wall biogenesis
-2558009544	2558009545	62.42	314	334	336	Nucleoside-diphosphate-sugar epimerases	Nucleoside-diphosphate-sugar epimerases
+2558009544	2558009545	63.664	333	334	336	Nucleoside-diphosphate-sugar epimerases	Nucleoside-diphosphate-sugar epimerases
+2558009571	2558009976	37.374	198	206	211	Protein of unknown function (DUF3038)	Protein of unknown function (DUF3038)
 2558009578	2558011254	31.93	285	283	287	Protein of unknown function (DUF1092)	Protein of unknown function (DUF1092)
-2558009590	2558011510	42.57	491	502	501	ATPases of the AAA+ class	ATPases of the AAA+ class
-2558009593	2558012131	53.52	256	299	301	Hydrolases of the alpha/beta superfamily	Alpha/beta hydrolase family
-2558009594	2558010991	42.13	527	544	559	Dolichyl-phosphate-mannose-protein mannosyltransferase	Predicted membrane protein
-2558009609	2558013210	72.02	461	462	468	nucleotide sugar dehydrogenase	nucleotide sugar dehydrogenase
-2558009622	2558011716	43.04	237	238	244	two component transcriptional regulator, winged helix family	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
-2558009623	2558010139	52.68	336	338	341	glyceraldehyde-3-phosphate dehydrogenase, type I	glyceraldehyde-3-phosphate dehydrogenase, type I
-2558009633	2558012882	65.65	230	225	231	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
-2558009634	2558012881	41.52	448	478	456	Signal transduction histidine kinase	His Kinase A (phospho-acceptor) domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase/CHASE3 domain
-2558009665	2558013251	53.85	312	327	294	conserved domain	conserved domain
-2558009707	2558012510	56.3	119	122	126	Rhodanese-related sulfurtransferase	Rhodanese-related sulfurtransferase
-2558009709	2558011958	53.37	564	584	617	ABC-type dipeptide transport system, periplasmic component	ABC-type dipeptide transport system, periplasmic component
-2558009756	2558011304	30.86	431	443	520	Hemolysins and related proteins containing CBS domains	Hemolysins and related proteins containing CBS domains
+2558009590	2558011510	42.566	491	502	501	ATPases of the AAA+ class	ATPases of the AAA+ class
+2558009593	2558012131	53.237	278	299	301	Hydrolases of the alpha/beta superfamily	Alpha/beta hydrolase family
+2558009594	2558010991	42.193	538	544	559	Dolichyl-phosphate-mannose-protein mannosyltransferase	Predicted membrane protein
+2558009609	2558013210	72.017	461	462	468	nucleotide sugar dehydrogenase	nucleotide sugar dehydrogenase
+2558009622	2558011716	43.038	237	238	244	two component transcriptional regulator, winged helix family	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558009623	2558010139	52.679	336	338	341	glyceraldehyde-3-phosphate dehydrogenase, type I	glyceraldehyde-3-phosphate dehydrogenase, type I
+2558009633	2558012882	65.652	230	225	231	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558009634	2558012881	41.518	448	478	456	Signal transduction histidine kinase	His Kinase A (phospho-acceptor) domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase/CHASE3 domain
+2558009665	2558013251	53.846	312	327	294	conserved domain	conserved domain
+2558009707	2558012510	56.303	119	122	126	Rhodanese-related sulfurtransferase	Rhodanese-related sulfurtransferase
+2558009709	2558011958	53.229	573	584	617	ABC-type dipeptide transport system, periplasmic component	ABC-type dipeptide transport system, periplasmic component
+2558009726	2558009727	30	330	329	302	hypothetical protein	hypothetical protein
+2558009734	2558011233	43.933	239	264	239	signal peptidase I (EC 3.4.21.89). Serine peptidase. MEROPS family S26A	signal peptidase I (EC 3.4.21.89). Serine peptidase. MEROPS family S26A
+2558009756	2558011304	30.947	433	443	520	Hemolysins and related proteins containing CBS domains	Hemolysins and related proteins containing CBS domains
+2558009759	2558011067	62.869	237	251	242	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
 2558009760	2558011163	40	75	77	78	hypothetical protein	hypothetical protein
-2558009783	2558013105	48.61	469	438	481	RND family efflux transporter, MFP subunit	RND family efflux transporter, MFP subunit
-2558009805	2558011099	46.88	448	524	531	Subtilisin-like serine proteases	Subtilisin-like serine proteases
-2558009825	2558012864	38.8	183	211	190	Acetyltransferase (isoleucine patch superfamily)	Acetyltransferase (isoleucine patch superfamily)
-2558009826	2558010943	37.34	316	320	295	Glycosyltransferases involved in cell wall biogenesis	Glycosyltransferases involved in cell wall biogenesis
-2558009828	2558010818	63.71	124	180	173	Photosystem I reaction centre subunit XI	Photosystem I reaction centre subunit XI
-2558009842	2558011172	73.53	68	69	79	hypothetical protein	hypothetical protein
+2558009774	2558011433	46.221	344	421	382	RNA polymerase sigma factor, cyanobacterial RpoD-like family	RNA polymerase sigma factor, cyanobacterial RpoD-like family
+2558009783	2558013105	49.041	469	438	481	RND family efflux transporter, MFP subunit	RND family efflux transporter, MFP subunit
+2558009790	2558012450	63.333	90	91	91	Predicted membrane protein	Predicted membrane protein
+2558009805	2558011099	47.321	448	524	531	Subtilisin-like serine proteases	Subtilisin-like serine proteases
+2558009825	2558012864	38.798	183	211	190	Acetyltransferase (isoleucine patch superfamily)	Acetyltransferase (isoleucine patch superfamily)
+2558009826	2558010943	37.342	316	320	295	Glycosyltransferases involved in cell wall biogenesis	Glycosyltransferases involved in cell wall biogenesis
+2558009828	2558010818	60	160	180	173	Photosystem I reaction centre subunit XI	Photosystem I reaction centre subunit XI
+2558009842	2558011172	73.529	68	69	79	hypothetical protein	hypothetical protein
 2558009847	2558010937	40	195	234	228	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
-2558009875	2558011481	48.18	137	144	136	Biopolymer transport protein	Biopolymer transport protein
-2558009876	2558010858	53.97	315	341	365	phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)	phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)
-2558009884	2558011652	34.84	155	187	187	peptide deformylase	peptide deformylase
-2558009889	2558011813	47.44	371	403	434	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
-2558009891	2558009893	56.64	143	155	153	Response regulator containing a CheY-like receiver domain and an HD-GYP domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
-2558009909	2558009915	65.92	223	227	228	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558009924	2558013042	38.16	359	376	368	Glycosyltransferase	Glycosyltransferase
-2558009932	2558010851	62.65	490	559	493	Glycosidases	Glycosidases
-2558009937	2558013125	60.31	131	137	154	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
-2558009940	2558012542	55.78	147	150	152	hypothetical protein	hypothetical protein
-2558009952	2558012525	79.68	251	256	253	Sterol desaturase	Sterol desaturase
-2558009956	2558010507	42.77	166	199	189	RNA polymerase sigma factor, sigma-70 family	RNA polymerase sigma factor, sigma-70 family
-2558009987	2558012975	34.99	383	364	366	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)	4-hydroxyphenylpyruvate dioxygenase
-2558009993	2558010552	35.94	128	218	207	translation factor SUA5	Putative translation factor (SUA5)
-2558009994	2558010118	54.35	368	457	379	hypothetical protein	hypothetical protein
-2558010010	2558013374	34.38	320	324	322	Protein of unknown function (DUF1822)	Protein of unknown function (DUF1822)
+2558009875	2558011481	48.175	137	144	136	Biopolymer transport protein	Biopolymer transport protein
+2558009876	2558010858	53.968	315	341	365	phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)	phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)
+2558009884	2558011652	34.839	155	187	187	peptide deformylase	peptide deformylase
+2558009889	2558011813	47.439	371	403	434	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
+2558009891	2558009893	57.857	140	155	153	Response regulator containing a CheY-like receiver domain and an HD-GYP domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558009902	2558011215	48.813	379	369	368	Predicted membrane protein	Predicted membrane protein
+2558009909	2558009915	65.919	223	227	228	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558009924	2558013042	38.162	359	376	368	Glycosyltransferase	Glycosyltransferase
+2558009932	2558010851	62.653	490	559	493	Glycosidases	Glycosidases
+2558009937	2558013125	60.305	131	137	154	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558009940	2558012542	55.782	147	150	152	hypothetical protein	hypothetical protein
+2558009952	2558012525	79.681	251	256	253	Sterol desaturase	Sterol desaturase
+2558009956	2558010507	42.771	166	199	189	RNA polymerase sigma factor, sigma-70 family	RNA polymerase sigma factor, sigma-70 family
+2558009987	2558012975	34.987	383	364	366	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)	4-hydroxyphenylpyruvate dioxygenase
+2558009993	2558010552	35.938	128	218	207	translation factor SUA5	Putative translation factor (SUA5)
+2558009994	2558010118	54.201	369	457	379	hypothetical protein	hypothetical protein
+2558010010	2558013374	34.375	320	324	322	Protein of unknown function (DUF1822)	Protein of unknown function (DUF1822)
 2558010016	2558010612	100	51	51	51	hypothetical protein	hypothetical protein
-2558010058	2558011709	90.77	65	66	66	hypothetical protein	hypothetical protein
-2558010060	2558010386	62.79	129	130	134	FOG: CheY-like receiver	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains
-2558010071	2558010629	47.22	216	228	227	Amidases related to nicotinamidase	Amidases related to nicotinamidase
-2558010077	2558010627	73.26	172	177	176	Restriction endonuclease	Restriction endonuclease
-2558010079	2558011609	30.83	240	222	254	Short-chain dehydrogenases of various substrate specificities	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
-2558010097	2558010929	49.73	738	766	763	Bacteriophytochrome (light-regulated signal transduction histidine kinase)	Bacteriophytochrome (light-regulated signal transduction histidine kinase)
-2558010098	2558010928	51.39	144	158	152	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain
-2558010112	2558012242	68.95	409	495	465	sodium/proton antiporter NhaS3, CPA2 family (TC 2.A.37.2.4)	sodium/proton antiporter NhaS3, CPA2 family (TC 2.A.37.2.4)
-2558010150	2558013183	76.23	509	511	519	photosystem II chlorophyll-binding protein CP47	photosystem II chlorophyll-binding protein CP47
-2558010156	2558012075	40.75	292	308	321	Membrane protease subunits, stomatin/prohibitin homologs	SPFH domain, Band 7 family protein
-2558010182	2558010647	58.82	187	192	189	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558010191	2558010873	36.3	135	145	140	Predicted dioxygenase of extradiol dioxygenase family	Predicted dioxygenase of extradiol dioxygenase family
+2558010058	2558011709	90.769	65	66	66	hypothetical protein	hypothetical protein
+2558010060	2558010386	62.791	129	130	134	FOG: CheY-like receiver	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains
+2558010071	2558010629	47.222	216	228	227	Amidases related to nicotinamidase	Amidases related to nicotinamidase
+2558010077	2558010627	73.256	172	177	176	Restriction endonuclease	Restriction endonuclease
+2558010079	2558011609	31.25	240	222	254	Short-chain dehydrogenases of various substrate specificities	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
+2558010097	2558010929	49.729	738	766	763	Bacteriophytochrome (light-regulated signal transduction histidine kinase)	Bacteriophytochrome (light-regulated signal transduction histidine kinase)
+2558010098	2558010928	51.389	144	158	152	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain
+2558010112	2558012242	69.194	422	495	465	sodium/proton antiporter NhaS3, CPA2 family (TC 2.A.37.2.4)	sodium/proton antiporter NhaS3, CPA2 family (TC 2.A.37.2.4)
+2558010150	2558013183	76.228	509	511	519	photosystem II chlorophyll-binding protein CP47	photosystem II chlorophyll-binding protein CP47
+2558010156	2558012075	40.514	311	308	321	Membrane protease subunits, stomatin/prohibitin homologs	SPFH domain, Band 7 family protein
+2558010157	2558012074	41.304	138	158	143	Membrane protein implicated in regulation of membrane protease activity	Membrane protein implicated in regulation of membrane protease activity
+2558010182	2558010647	58.824	187	192	189	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558010191	2558010873	36.296	135	145	140	Predicted dioxygenase of extradiol dioxygenase family	Predicted dioxygenase of extradiol dioxygenase family
 2558010199	2558011392	32.9	231	232	283	5'-nucleotidase (EC 3.1.3.5)/3'-nucleotidase (EC 3.1.3.6)/exopolyphosphatase (EC 3.6.1.11)	5'-nucleotidase (EC 3.1.3.5)/3'-nucleotidase (EC 3.1.3.6)/exopolyphosphatase (EC 3.6.1.11)
-2558010205	2558010634	45.51	457	458	429	type I secretion membrane fusion protein, HlyD family	type I secretion membrane fusion protein, HlyD family
+2558010205	2558010634	45.514	457	458	429	type I secretion membrane fusion protein, HlyD family	type I secretion membrane fusion protein, HlyD family
 2558010250	2558011898	42.52	381	384	399	Predicted pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis	Predicted pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis
-2558010257	2558012703	74.46	184	205	221	Uncharacterized conserved protein	Uncharacterized conserved protein
-2558010298	2558012192	51.58	442	451	446	Uncharacterized conserved protein	Uncharacterized conserved protein
-2558010305	2558011703	100	60	69	72	hypothetical protein	hypothetical protein
-2558010313	2558012193	38.65	771	785	791	Arylsulfatase A and related enzymes	Arylsulfatase A and related enzymes
-2558010321	2558010714	40.07	267	297	293	prolipoprotein diacylglyceryl transferase	prolipoprotein diacylglyceryl transferase
-2558010357	2558010897	46.68	844	864	834	DNA gyrase subunit A (EC 5.99.1.3)	DNA topoisomerase IV subunit A (EC 5.99.1.3)
-2558010360	2558011482	61.47	231	251	251	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558010404	2558010859	38.46	234	256	226	MIP family channel proteins	MIP family channel proteins
-2558010407	2558010408	86.08	79	80	93	hypothetical protein	hypothetical protein
-2558010422	2558012708	37.79	217	214	205	Fructose-2,6-bisphosphatase	Fructose-2,6-bisphosphatase
-2558010424	2558010425	55.51	254	255	246	Hemolysin-type calcium-binding repeat (2 copies)	Hemolysin-type calcium-binding repeat (2 copies)
-2558010429	2558010430	56.32	261	265	258	Bacterial pre-peptidase C-terminal domain	Bacterial pre-peptidase C-terminal domain
-2558010433	2558010438	52.33	1246	1230	1213	WD-40 repeat-containing protein	WD-40 repeat-containing protein
-2558010444	2558010767	37.67	454	497	471	ABC-type branched-chain amino acid transport systems, periplasmic component	ABC-type branched-chain amino acid transport systems, periplasmic component
-2558010467	2558012761	98.77	81	83	83	hypothetical protein	hypothetical protein
-2558010470	2558012290	31.28	195	199	209	CpeT/CpcT family (DUF1001)	CpeT/CpcT family (DUF1001)
-2558010472	2558012464	41.23	228	276	245	ABC-type phosphate/phosphonate transport system, ATPase component	phosphonate ABC transporter, ATP-binding protein
-2558010481	2558013254	35.44	158	176	168	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
-2558010483	2558013326	52.17	253	253	258	hypothetical protein	Bacterial pre-peptidase C-terminal domain
-2558010484	2558013325	60.26	229	250	239	hypothetical protein	Parvulin-like peptidyl-prolyl isomerase
-2558010492	2558011370	39.77	342	368	379	Predicted permease	Predicted permease
-2558010516	2558013267	68.32	202	231	222	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase	Sugar transferases involved in lipopolysaccharide synthesis
-2558010524	2558010529	61.72	209	210	210	hypothetical protein	Type I restriction enzyme R protein N terminus (HSDR_N)
-2558010534	2558011576	51.27	197	208	202	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
-2558010553	2558011002	67.51	871	874	890	ATP-dependent chaperone ClpB	ATP-dependent chaperone ClpB
-2558010565	2558012766	42.06	214	215	217	transcriptional regulator, TetR family	transcriptional regulator, TetR family
-2558010568	2558013102	57.1	310	311	297	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)
-2558010571	2558010603	39.35	155	185	182	Universal stress protein UspA and related nucleotide-binding proteins	Universal stress protein UspA and related nucleotide-binding proteins
-2558010624	2558011936	90.24	82	83	83	hypothetical protein	hypothetical protein
-2558010628	2558012971	34.04	282	287	292	Lysophospholipase	Lysophospholipase
-2558010658	2558013431	41.86	485	581	596	ABC-type multidrug transport system, ATPase and permease components	ABC-type multidrug transport system, ATPase and permease components
-2558010709	2558012896	43.13	211	215	230	ATPases involved in chromosome partitioning	ATPases involved in chromosome partitioning
-2558010737	2558012459	37.79	471	479	509	Signal transduction histidine kinase	His Kinase A (phospho-acceptor) domain/HAMP domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
-2558010738	2558012460	70.85	223	225	227	two component transcriptional regulator, winged helix family	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558010257	2558012703	74.457	184	205	221	Uncharacterized conserved protein	Uncharacterized conserved protein
+2558010298	2558012192	51.584	442	451	446	Uncharacterized conserved protein	Uncharacterized conserved protein
+2558010300	2558013200	69.654	636	703	708	cyanobacterial porin (TC 1.B.23)	cyanobacterial porin (TC 1.B.23)
+2558010301	2558010508	42.986	221	258	257	Hemolysin-type calcium-binding repeat (2 copies)	Hemolysin-type calcium-binding repeat (2 copies)
+2558010313	2558012193	39.17	771	785	791	Arylsulfatase A and related enzymes	Arylsulfatase A and related enzymes
+2558010321	2558010714	40.075	267	297	293	prolipoprotein diacylglyceryl transferase	prolipoprotein diacylglyceryl transferase
+2558010338	2558011657	44.118	238	236	254	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	two component transcriptional regulator, winged helix family
+2558010339	2558010342	36.893	206	215	223	ABC-type proline/glycine betaine transport systems, permease component	ABC-type proline/glycine betaine transport systems, permease component
+2558010346	2558012807	52.995	434	482	569	Predicted membrane protein involved in D-alanine export	Predicted membrane protein involved in D-alanine export
+2558010357	2558010897	46.801	844	864	834	DNA gyrase subunit A (EC 5.99.1.3)	DNA topoisomerase IV subunit A (EC 5.99.1.3)
+2558010404	2558010859	38.462	234	256	226	MIP family channel proteins	MIP family channel proteins
+2558010407	2558010408	86.076	79	80	93	hypothetical protein	hypothetical protein
+2558010422	2558012708	37.788	217	214	205	Fructose-2,6-bisphosphatase	Fructose-2,6-bisphosphatase
+2558010424	2558010425	55.512	254	255	246	Hemolysin-type calcium-binding repeat (2 copies)	Hemolysin-type calcium-binding repeat (2 copies)
+2558010429	2558010430	58.238	261	265	258	Bacterial pre-peptidase C-terminal domain	Bacterial pre-peptidase C-terminal domain
+2558010432	2558011848	54.751	221	225	239	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558010433	2558010438	52.767	1247	1230	1213	WD-40 repeat-containing protein	WD-40 repeat-containing protein
+2558010444	2558010767	38.046	481	497	471	ABC-type branched-chain amino acid transport systems, periplasmic component	ABC-type branched-chain amino acid transport systems, periplasmic component
+2558010467	2558012761	98.765	81	83	83	hypothetical protein	hypothetical protein
+2558010470	2558012290	30.964	197	199	209	CpeT/CpcT family (DUF1001)	CpeT/CpcT family (DUF1001)
+2558010472	2558012464	41.228	228	276	245	ABC-type phosphate/phosphonate transport system, ATPase component	phosphonate ABC transporter, ATP-binding protein
+2558010476	2558012377	31.469	143	145	145	Uncharacterized conserved protein	Uncharacterized conserved protein
+2558010481	2558013254	35.443	158	176	168	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
+2558010483	2558013326	52.174	253	253	258	hypothetical protein	Bacterial pre-peptidase C-terminal domain
+2558010484	2558013325	60.262	229	250	239	hypothetical protein	Parvulin-like peptidyl-prolyl isomerase
+2558010492	2558011370	40	350	368	379	Predicted permease	Predicted permease
+2558010516	2558013267	68.317	202	231	222	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase	Sugar transferases involved in lipopolysaccharide synthesis
+2558010524	2558010529	61.722	209	210	210	hypothetical protein	Type I restriction enzyme R protein N terminus (HSDR_N)
+2558010534	2558011576	51.269	197	208	202	Uncharacterized protein conserved in cyanobacteria	Uncharacterized protein conserved in cyanobacteria
+2558010535	2558011624	31.858	226	278	280	Uncharacterized conserved protein	Uncharacterized conserved protein
+2558010553	2558011002	67.509	871	874	890	ATP-dependent chaperone ClpB	ATP-dependent chaperone ClpB
+2558010565	2558012766	42.056	214	215	217	transcriptional regulator, TetR family	transcriptional regulator, TetR family
+2558010568	2558013102	57.097	310	311	297	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)
+2558010571	2558010603	39.355	155	185	182	Universal stress protein UspA and related nucleotide-binding proteins	Universal stress protein UspA and related nucleotide-binding proteins
+2558010628	2558012971	34.043	282	287	292	Lysophospholipase	Lysophospholipase
+2558010658	2558013431	38.772	570	581	596	ABC-type multidrug transport system, ATPase and permease components	ABC-type multidrug transport system, ATPase and permease components
+2558010709	2558012896	43.128	211	215	230	ATPases involved in chromosome partitioning	ATPases involved in chromosome partitioning
+2558010737	2558012459	37.792	471	479	509	Signal transduction histidine kinase	His Kinase A (phospho-acceptor) domain/HAMP domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+2558010738	2558012460	70.852	223	225	227	two component transcriptional regulator, winged helix family	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
 2558010765	2558012393	33.11	299	338	311	transcriptional regulator, LysR family	transcriptional regulator, LysR family
-2558010775	2558012515	67.42	267	271	267	Transglutaminase-like enzymes, putative cysteine proteases	Transglutaminase-like enzymes, putative cysteine proteases
-2558010788	2558010982	32.44	447	455	456	ribosomal protein S12 methylthiotransferase RimO	tRNA-N(6)-(isopentenyl)adenosine-37 thiotransferase enzyme MiaB
-2558010821	2558013219	32.15	423	420	412	Fructose-2,6-bisphosphatase	Fructose-2,6-bisphosphatase
-2558010836	2558011845	44.23	624	623	636	4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family	hypothetical protein
-2558010900	2558012986	30.48	420	421	420	cysteine desulfurase (EC 2.8.1.7)	cysteine desulfurase family protein, VC1184 subfamily
-2558010926	2558012834	45.16	310	314	344	Methylase involved in ubiquinone/menaquinone biosynthesis	Methylase involved in ubiquinone/menaquinone biosynthesis
-2558010933	2558011456	54.97	151	146	159	Peroxiredoxin	Peroxiredoxin
-2558010934	2558013220	61.68	334	336	350	Nucleoside-diphosphate-sugar epimerases	Nucleoside-diphosphate-sugar epimerases
-2558010959	2558013401	40.06	347	357	368	ATPases involved in chromosome partitioning	ATPases involved in chromosome partitioning
-2558010997	2558012434	43.5	600	574	576	CHAT domain/AAA-like domain	CHAT domain/AAA-like domain
-2558011007	2558011008	91.09	101	114	103	Carbon dioxide concentrating mechanism/carboxysome shell protein	Carbon dioxide concentrating mechanism/carboxysome shell protein
-2558011009	2558011634	51.97	610	616	628	NAD(P)H dehydrogenase, subunit NdhF3 family	NAD(P)H dehydrogenase, subunit NdhF3 family
-2558011010	2558011635	59.62	473	512	509	NADH dehydrogenase subunit M (EC 1.6.5.3)	proton-translocating NADH-quinone oxidoreductase, chain M
+2558010775	2558012515	67.416	267	271	267	Transglutaminase-like enzymes, putative cysteine proteases	Transglutaminase-like enzymes, putative cysteine proteases
+2558010788	2558010982	32.438	447	455	456	ribosomal protein S12 methylthiotransferase RimO	tRNA-N(6)-(isopentenyl)adenosine-37 thiotransferase enzyme MiaB
+2558010821	2558013219	32.102	433	420	412	Fructose-2,6-bisphosphatase	Fructose-2,6-bisphosphatase
+2558010836	2558011845	44.391	624	623	636	4-amino-4-deoxy-L-arabinose transferase and related glycosyltransferases of PMT family	hypothetical protein
+2558010900	2558012986	30.476	420	421	420	cysteine desulfurase (EC 2.8.1.7)	cysteine desulfurase family protein, VC1184 subfamily
+2558010926	2558012834	45.161	310	314	344	Methylase involved in ubiquinone/menaquinone biosynthesis	Methylase involved in ubiquinone/menaquinone biosynthesis
+2558010933	2558011456	54.967	151	146	159	Peroxiredoxin	Peroxiredoxin
+2558010934	2558013220	61.677	334	336	350	Nucleoside-diphosphate-sugar epimerases	Nucleoside-diphosphate-sugar epimerases
+2558010955	2558012451	38.396	586	705	688	transporter, CPA2 family (TC 2.A.37)	transporter, CPA2 family (TC 2.A.37)
+2558010959	2558013401	40.058	347	357	368	ATPases involved in chromosome partitioning	ATPases involved in chromosome partitioning
+2558010997	2558012434	43.645	598	574	576	CHAT domain/AAA-like domain	CHAT domain/AAA-like domain
+2558011007	2558011008	91.089	101	114	103	Carbon dioxide concentrating mechanism/carboxysome shell protein	Carbon dioxide concentrating mechanism/carboxysome shell protein
+2558011009	2558011634	51.967	610	616	628	NAD(P)H dehydrogenase, subunit NdhF3 family	NAD(P)H dehydrogenase, subunit NdhF3 family
+2558011010	2558011635	59.252	481	512	509	NADH dehydrogenase subunit M (EC 1.6.5.3)	proton-translocating NADH-quinone oxidoreductase, chain M
 2558011011	2558011636	47.16	405	375	436	CO2 hydration protein	CO2 hydration protein
-2558011015	2558013174	76.4	161	162	162	allophycocyanin beta subunit apoprotein	allophycocyanin beta subunit apoprotein
-2558011026	2558013193	43.92	148	162	175	Photosystem I reaction centre subunit III	Photosystem I reaction centre subunit III
-2558011034	2558012437	45.03	362	443	389	AAA-like domain	AAA-like domain
-2558011037	2558011632	65.94	323	332	337	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
-2558011068	2558012186	60.27	73	79	75	Predicted transcriptional regulators	Predicted transcriptional regulators
-2558011084	2558011438	56.57	99	115	100	ferredoxin [2Fe-2S]	ferredoxin [2Fe-2S]
-2558011130	2558011132	65.83	360	361	366	calcium/proton exchanger (cax)	calcium/proton exchanger (cax)
-2558011133	2558012962	52.55	274	307	292	Uncharacterized conserved protein	Protein of unknown function (DUF455)
-2558011147	2558011544	75.48	310	322	341	integron integrase	integron integrase
-2558011182	2558012736	41.43	70	84	87	hypothetical protein	hypothetical protein
-2558011187	2558012748	67.93	421	432	441	ABC-type sugar transport system, periplasmic component	ABC-type sugar transport system, periplasmic component
-2558011188	2558012749	76.67	270	304	302	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
-2558011189	2558012750	84.93	272	288	293	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
-2558011190	2558012751	70.31	357	360	380	ABC-type sugar transport systems, ATPase components	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)
+2558011015	2558013174	76.398	161	162	162	allophycocyanin beta subunit apoprotein	allophycocyanin beta subunit apoprotein
+2558011026	2558013193	43.919	148	162	175	Photosystem I reaction centre subunit III	Photosystem I reaction centre subunit III
+2558011034	2558012437	45.028	362	443	389	AAA-like domain	AAA-like domain
+2558011037	2558011632	65.944	323	332	337	Uncharacterized low-complexity proteins	Uncharacterized low-complexity proteins
+2558011068	2558012186	60.274	73	79	75	Predicted transcriptional regulators	Predicted transcriptional regulators
+2558011084	2558011438	56.566	99	115	100	ferredoxin [2Fe-2S]	ferredoxin [2Fe-2S]
+2558011130	2558011132	65.833	360	361	366	calcium/proton exchanger (cax)	calcium/proton exchanger (cax)
+2558011133	2558012962	52.555	274	307	292	Uncharacterized conserved protein	Protein of unknown function (DUF455)
+2558011147	2558011544	75.641	312	322	341	integron integrase	integron integrase
+2558011182	2558012736	41.429	70	84	87	hypothetical protein	hypothetical protein
+2558011185	2558011186	58.586	99	94	100	hypothetical protein	hypothetical protein
+2558011187	2558012748	67.933	421	432	441	ABC-type sugar transport system, periplasmic component	ABC-type sugar transport system, periplasmic component
+2558011188	2558012749	75.338	296	304	302	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2558011189	2558012750	84.926	272	288	293	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2558011190	2558012751	70.308	357	360	380	ABC-type sugar transport systems, ATPase components	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)
 2558011209	2558012997	31.78	236	241	242	Short-chain alcohol dehydrogenase of unknown specificity	Short-chain alcohol dehydrogenase of unknown specificity
-2558011239	2558011808	32.47	616	677	652	Glycerol-3-phosphate dehydrogenase	FAD dependent oxidoreductase
-2558011243	2558013189	77.41	788	756	785	photosystem I core protein PsaA	photosystem I core protein PsaA
-2558011244	2558012742	88.43	743	743	745	photosystem I core protein PsaB	photosystem I core protein PsaB
-2558011255	2558011309	36.4	445	437	444	Predicted Zn-dependent proteases and their inactivated homologs	Predicted Zn-dependent proteases and their inactivated homologs
-2558011263	2558011816	38.11	244	294	304	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	ABC-type sugar transport systems, permease components
-2558011267	2558011390	42.74	248	275	269	methionine aminopeptidase, type I (EC 3.4.11.18)	methionine aminopeptidase, type I (EC 3.4.11.18)
-2558011282	2558011842	47.52	505	500	515	Methylase involved in ubiquinone/menaquinone biosynthesis	Methylase involved in ubiquinone/menaquinone biosynthesis
-2558011294	2558012980	37.69	390	389	389	Aspartate/tyrosine/aromatic aminotransferase	Aspartate/tyrosine/aromatic aminotransferase
-2558011300	2558011301	67.36	144	147	154	FOG: FHA domain	FOG: FHA domain
-2558011347	2558011348	47.29	387	381	389	DevC protein	DevC protein
-2558011360	2558012920	57.61	927	950	926	malto-oligosyltrehalose synthase	maltooligosyl trehalose synthase (EC 5.4.99.15)
-2558011363	2558012619	45.31	245	258	266	Protein of unknown function (DUF4058)	Protein of unknown function (DUF4058)
-2558011364	2558013124	74.33	705	709	709	glycogen debranching enzyme GlgX	isoamylase
-2558011377	2558012308	34.07	226	223	233	hypothetical protein	NADH:ubiquinone oxidoreductase 24 kD subunit
-2558011386	2558011507	46.21	844	940	805	PAS domain S-box	PAS domain S-box
-2558011410	2558012537	74.29	354	356	353	cobalamin biosynthesis protein CobW	cobalamin biosynthesis protein CobW
-2558011425	2558011426	61.68	334	346	365	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
-2558011501	2558013460	38.97	136	154	151	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
-2558011505	2558012760	69.43	566	568	563	Phytoene dehydrogenase and related proteins	Phytoene dehydrogenase and related proteins
-2558011506	2558012806	69.63	349	346	350	Uncharacterized conserved protein	Uncharacterized conserved protein
-2558011515	2558012213	57.21	229	241	260	L-arginine ABC transporter ATP-binding protein	ABC-type polar amino acid transport system, ATPase component
-2558011529	2558012033	45.45	99	105	114	anti-anti-sigma factor	anti-anti-sigma factor
-2558011531	2558012770	33.99	306	315	318	ribokinase	Sugar kinases, ribokinase family
-2558011543	2558011809	95.45	66	67	67	hypothetical protein	hypothetical protein
-2558011557	2558011878	89.2	176	177	181	Transposase and inactivated derivatives	Transposase and inactivated derivatives
-2558011558	2558011879	87.62	105	124	106	hypothetical protein	hypothetical protein
-2558011571	2558011680	34.09	1323	1270	1330	cobaltochelatase CobN subunit (EC 6.6.1.2)	cobaltochelatase CobN subunit (EC 6.6.1.2)
-2558011582	2558012974	34.7	438	458	458	Cytochrome P450	Cytochrome P450
-2558011594	2558013237	58.46	65	69	69	hypothetical protein	hypothetical protein
+2558011239	2558011808	32.82	649	677	652	Glycerol-3-phosphate dehydrogenase	FAD dependent oxidoreductase
+2558011243	2558013189	77.411	788	756	785	photosystem I core protein PsaA	photosystem I core protein PsaA
+2558011244	2558012742	88.425	743	743	745	photosystem I core protein PsaB	photosystem I core protein PsaB
+2558011245	2558011442	36.131	703	658	697	FOG: WD40 repeat	FOG: WD40 repeat
+2558011255	2558011309	36.404	445	437	444	Predicted Zn-dependent proteases and their inactivated homologs	Predicted Zn-dependent proteases and their inactivated homologs
+2558011263	2558011816	37.37	289	294	304	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	ABC-type sugar transport systems, permease components
+2558011267	2558011390	42.742	248	275	269	methionine aminopeptidase, type I (EC 3.4.11.18)	methionine aminopeptidase, type I (EC 3.4.11.18)
+2558011282	2558011842	47.525	505	500	515	Methylase involved in ubiquinone/menaquinone biosynthesis	Methylase involved in ubiquinone/menaquinone biosynthesis
+2558011294	2558012980	37.692	390	389	389	Aspartate/tyrosine/aromatic aminotransferase	Aspartate/tyrosine/aromatic aminotransferase
+2558011300	2558011301	67.361	144	147	154	FOG: FHA domain	FOG: FHA domain
+2558011347	2558011348	47.287	387	381	389	DevC protein	DevC protein
+2558011360	2558012920	57.605	927	950	926	malto-oligosyltrehalose synthase	maltooligosyl trehalose synthase (EC 5.4.99.15)
+2558011363	2558012619	45.306	245	258	266	Protein of unknown function (DUF4058)	Protein of unknown function (DUF4058)
+2558011364	2558013124	74.326	705	709	709	glycogen debranching enzyme GlgX	isoamylase
+2558011377	2558012308	35.714	224	223	233	hypothetical protein	NADH:ubiquinone oxidoreductase 24 kD subunit
+2558011386	2558011507	46.209	844	940	805	PAS domain S-box	PAS domain S-box
+2558011410	2558012537	74.294	354	356	353	cobalamin biosynthesis protein CobW	cobalamin biosynthesis protein CobW
+2558011425	2558011426	61.337	344	346	365	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)
+2558011463	2558011660	35.484	341	338	295	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
+2558011477	2558011953	43.539	1571	1541	1561	FOG: WD40 repeat	FOG: WD40 repeat
+2558011501	2558013460	45.588	136	154	151	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558011505	2558012760	69.435	566	568	563	Phytoene dehydrogenase and related proteins	Phytoene dehydrogenase and related proteins
+2558011506	2558012806	69.628	349	346	350	Uncharacterized conserved protein	Uncharacterized conserved protein
+2558011511	2558011512	34.568	162	156	163	Bacterial SH3 domain	Bacterial SH3 domain
+2558011515	2558012213	57.205	229	241	260	L-arginine ABC transporter ATP-binding protein	ABC-type polar amino acid transport system, ATPase component
+2558011529	2558012033	45.455	99	105	114	anti-anti-sigma factor	anti-anti-sigma factor
+2558011531	2558012770	33.987	306	315	318	ribokinase	Sugar kinases, ribokinase family
+2558011536	2558011641	34.536	194	239	228	Transcriptional regulators	Transcriptional regulators
+2558011543	2558011809	95.455	66	67	67	hypothetical protein	hypothetical protein
+2558011557	2558011878	89.205	176	177	181	Transposase and inactivated derivatives	Transposase and inactivated derivatives
+2558011558	2558011879	87.619	105	124	106	hypothetical protein	hypothetical protein
+2558011571	2558011680	34.089	1323	1270	1330	cobaltochelatase CobN subunit (EC 6.6.1.2)	cobaltochelatase CobN subunit (EC 6.6.1.2)
+2558011582	2558012974	34.703	438	458	458	Cytochrome P450	Cytochrome P450
+2558011594	2558013237	58.462	65	69	69	hypothetical protein	hypothetical protein
 2558011622	2558012874	38.71	403	402	405	Glycosyltransferase	Glycosyltransferase
-2558011625	2558013180	69.33	450	462	472	photosystem II 44 kDa subunit reaction center protein (also called P6 protein, CP43), bacterial and chloroplast	photosystem II 44 kDa subunit reaction center protein (also called P6 protein, CP43), bacterial and chloroplast
+2558011625	2558013180	69.333	450	462	472	photosystem II 44 kDa subunit reaction center protein (also called P6 protein, CP43), bacterial and chloroplast	photosystem II 44 kDa subunit reaction center protein (also called P6 protein, CP43), bacterial and chloroplast
 2558011662	2558011760	31.69	142	147	139	secondary thiamine-phosphate synthase enzyme	secondary thiamine-phosphate synthase enzyme
-2558011726	2558013363	51.29	232	241	234	phage tail protein domain	phage tail protein domain
-2558011727	2558013362	44.38	329	331	327	Baseplate J-like protein	Baseplate J-like protein
-2558011728	2558013361	44.08	1064	1038	1023	conserved hypothetical protein, phage tail-like region	conserved hypothetical protein, phage tail-like region
-2558011729	2558013360	63.36	131	134	135	Phage baseplate assembly protein W	Phage baseplate assembly protein W
+2558011703	2558012529	100	69	72	70	hypothetical protein	hypothetical protein
+2558011726	2558013363	51.293	232	241	234	phage tail protein domain	phage tail protein domain
+2558011727	2558013362	44.377	329	331	327	Baseplate J-like protein	Baseplate J-like protein
+2558011728	2558013361	44.079	1064	1038	1023	conserved hypothetical protein, phage tail-like region	conserved hypothetical protein, phage tail-like region
+2558011729	2558013360	63.359	131	134	135	Phage baseplate assembly protein W	Phage baseplate assembly protein W
 2558011731	2558013358	50	224	232	215	Uncharacterized protein conserved in bacteria	Uncharacterized protein conserved in bacteria
-2558011732	2558013357	36.6	377	363	353	Phage protein D	Phage protein D
-2558011733	2558013356	52.59	232	222	228	LysM domain	LysM domain
+2558011732	2558013357	36.605	377	363	353	Phage protein D	Phage protein D
+2558011733	2558013356	52.586	232	222	228	LysM domain	LysM domain
 2558011735	2558013354	74.38	121	126	122	hypothetical protein	hypothetical protein
-2558011736	2558013353	76.26	139	145	142	conserved hypothetical phage tail region protein	conserved hypothetical phage tail region protein
-2558011740	2558013366	47.08	616	720	695	ATPases of the AAA+ class	ATPases of the AAA+ class
+2558011736	2558013353	76.259	139	145	142	conserved hypothetical phage tail region protein	conserved hypothetical phage tail region protein
+2558011740	2558013366	44.272	707	720	695	ATPases of the AAA+ class	ATPases of the AAA+ class
 2558011788	2558012469	56.25	240	276	281	Delta-9 acyl-phospholipid desaturase (EC 1.14.19.-)	Delta-9 acyl-phospholipid desaturase (EC 1.14.19.-)
-2558011820	2558012119	62.83	191	219	231	two component transcriptional regulator, LuxR family	two component transcriptional regulator, LuxR family
-2558011856	2558012911	90.17	356	360	359	GDP-mannose 4,6-dehydratase	GDP-mannose 4,6-dehydratase
-2558011857	2558012909	41.97	305	317	315	Nucleoside-diphosphate-sugar epimerases	Nucleoside-diphosphate-sugar epimerases
-2558011889	2558013309	64.44	315	328	336	Sugar kinases, ribokinase family	Sugar kinases, ribokinase family
-2558011906	2558012473	34.67	150	176	147	bacterial translation initiation factor 3 (bIF-3)	bacterial translation initiation factor 3 (bIF-3)
-2558011911	2558013169	50.28	360	340	365	Hemolysin-type calcium-binding repeat (2 copies)	Hemolysin-type calcium-binding repeat (2 copies)
+2558011820	2558012119	64.977	217	219	231	two component transcriptional regulator, LuxR family	two component transcriptional regulator, LuxR family
+2558011856	2558012911	90.169	356	360	359	GDP-mannose 4,6-dehydratase	GDP-mannose 4,6-dehydratase
+2558011857	2558012909	41.967	305	317	315	Nucleoside-diphosphate-sugar epimerases	Nucleoside-diphosphate-sugar epimerases
+2558011889	2558013309	64.444	315	328	336	Sugar kinases, ribokinase family	Sugar kinases, ribokinase family
+2558011906	2558012473	34.667	150	176	147	bacterial translation initiation factor 3 (bIF-3)	bacterial translation initiation factor 3 (bIF-3)
+2558011911	2558013169	52.222	360	340	365	Hemolysin-type calcium-binding repeat (2 copies)	Hemolysin-type calcium-binding repeat (2 copies)
 2558011912	2558011914	31.61	503	492	490	glycogen/starch synthase, ADP-glucose type	glycogen/starch synthase, ADP-glucose type
-2558011926	2558011932	45.54	560	581	561	hypothetical protein	hypothetical protein
-2558011942	2558011943	39.29	112	123	121	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains	Response regulator containing CheY-like receiver domain and AraC-type DNA-binding domain
-2558012014	2558013076	46.15	182	185	187	Chemotaxis signal transduction protein	Chemotaxis signal transduction protein
-2558012015	2558013077	63.03	119	121	122	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558011926	2558011932	47.038	574	581	561	hypothetical protein	hypothetical protein
+2558011942	2558011943	39.286	112	123	121	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains	Response regulator containing CheY-like receiver domain and AraC-type DNA-binding domain
+2558012014	2558013076	46.154	182	185	187	Chemotaxis signal transduction protein	Chemotaxis signal transduction protein
+2558012015	2558013077	63.025	119	121	122	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
 2558012016	2558013078	47.48	377	399	391	Response regulator containing a CheY-like receiver domain and a GGDEF domain	Response regulator containing a CheY-like receiver domain and a GGDEF domain
-2558012051	2558012621	34.2	193	215	200	ATPases involved in chromosome partitioning	ATPases involved in chromosome partitioning
-2558012058	2558012725	42.57	686	826	753	ATPase, P-type (transporting), HAD superfamily, subfamily IC/heavy metal translocating P-type ATPase	copper-(or silver)-translocating P-type ATPase
-2558012094	2558013346	58.65	208	230	214	Acyl carrier protein phosphodiesterase	Acyl carrier protein phosphodiesterase
-2558012105	2558012505	55.36	932	920	922	ATPase, P-type (transporting), HAD superfamily, subfamily IC	Cation transport ATPase
-2558012127	2558012873	38.64	339	390	388	Glycosyltransferase	Glycosyltransferase
-2558012182	2558013422	41.92	835	830	781	Predicted transmembrane sensor domain	Predicted transmembrane sensor domain
-2558012207	2558013349	45.67	208	225	218	Predicted transcriptional regulator	Predicted transcriptional regulator
-2558012258	2558013043	32.41	216	220	223	HEAT repeats	HEAT repeats
+2558012051	2558012621	34.197	193	215	200	ATPases involved in chromosome partitioning	ATPases involved in chromosome partitioning
+2558012058	2558012725	39.387	815	826	753	ATPase, P-type (transporting), HAD superfamily, subfamily IC/heavy metal translocating P-type ATPase	copper-(or silver)-translocating P-type ATPase
+2558012094	2558013346	58.654	208	230	214	Acyl carrier protein phosphodiesterase	Acyl carrier protein phosphodiesterase
+2558012105	2558012505	55.365	932	920	922	ATPase, P-type (transporting), HAD superfamily, subfamily IC	Cation transport ATPase
+2558012127	2558012873	38.643	339	390	388	Glycosyltransferase	Glycosyltransferase
+2558012182	2558013422	41.916	835	830	781	Predicted transmembrane sensor domain	Predicted transmembrane sensor domain
+2558012197	2558012470	80.392	51	63	62	SSU ribosomal protein S21P	ribosomal protein S21
+2558012207	2558013349	45.673	208	225	218	Predicted transcriptional regulator	Predicted transcriptional regulator
+2558012258	2558013043	32.407	216	220	223	HEAT repeats	HEAT repeats
 2558012265	2558012266	59.74	77	81	82	hypothetical protein	hypothetical protein
-2558012278	2558012279	38.17	241	248	244	phycoerythrobilin:ferredoxin oxidoreductase (EC 1.3.7.3)	15,16-dihydrobiliverdin:ferredoxin oxidoreductase (EC 1.3.7.2)
-2558012321	2558012324	33.66	413	498	463	Mo-nitrogenase MoFe protein subunit NifD precursor (EC 1.18.6.1)	nitrogenase molybdenum-iron cofactor biosynthesis protein NifE
-2558012339	2558012603	30.96	239	266	274	molybdenum ABC transporter, periplasmic molybdate-binding protein	molybdenum ABC transporter, periplasmic molybdate-binding protein
-2558012357	2558012753	69.67	389	390	390	Threonine dehydrogenase and related Zn-dependent dehydrogenases	Threonine dehydrogenase and related Zn-dependent dehydrogenases
-2558012391	2558012410	52.29	218	217	235	Predicted permease, cadmium resistance protein	Predicted permease, cadmium resistance protein
-2558012488	2558012493	37.28	169	183	174	hypothetical protein	hypothetical protein
-2558012500	2558012785	40	480	500	486	hypothetical protein	hypothetical protein
+2558012278	2558012279	38.174	241	248	244	phycoerythrobilin:ferredoxin oxidoreductase (EC 1.3.7.3)	15,16-dihydrobiliverdin:ferredoxin oxidoreductase (EC 1.3.7.2)
+2558012321	2558012324	33.568	426	498	463	Mo-nitrogenase MoFe protein subunit NifD precursor (EC 1.18.6.1)	nitrogenase molybdenum-iron cofactor biosynthesis protein NifE
+2558012339	2558012603	30.827	266	266	274	molybdenum ABC transporter, periplasmic molybdate-binding protein	molybdenum ABC transporter, periplasmic molybdate-binding protein
+2558012357	2558012753	69.666	389	390	390	Threonine dehydrogenase and related Zn-dependent dehydrogenases	Threonine dehydrogenase and related Zn-dependent dehydrogenases
+2558012391	2558012410	52.294	218	217	235	Predicted permease, cadmium resistance protein	Predicted permease, cadmium resistance protein
+2558012400	2558012417	46.953	279	349	341	ABC transporter, substrate-binding protein, aliphatic sulfonates family	ABC transporter, substrate-binding protein, aliphatic sulfonates family
+2558012419	2558013049	30.962	239	268	257	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+2558012448	2558013070	46.875	128	138	134	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558012488	2558012493	37.278	169	183	174	hypothetical protein	hypothetical protein
+2558012500	2558012785	40.361	498	500	486	hypothetical protein	hypothetical protein
 2558012503	2558012716	100	83	101	84	DDE superfamily endonuclease	hypothetical protein
-2558012504	2558013495	96.24	133	134	134	Secreted and surface protein containing fasciclin-like repeats	Secreted and surface protein containing fasciclin-like repeats
-2558012508	2558013493	87.63	97	100	99	Protein of unknown function (DUF3240)	Protein of unknown function (DUF3240)
-2558012512	2558013491	81.25	48	58	63	hypothetical protein	Chlorophyll A-B binding protein
-2558012513	2558013490	73.44	64	68	66	Phycobilisome degradation protein nblA	Phycobilisome degradation protein nblA
-2558012516	2558013487	88.39	155	161	166	Polyketide cyclase / dehydrase and lipid transport	Polyketide cyclase / dehydrase and lipid transport
-2558012517	2558012523	48.04	102	103	102	hypothetical protein	hypothetical protein
-2558012520	2558013483	69.11	123	113	141	hypothetical protein	hypothetical protein
+2558012504	2558013495	96.241	133	134	134	Secreted and surface protein containing fasciclin-like repeats	Secreted and surface protein containing fasciclin-like repeats
+2558012508	2558013493	87.629	97	100	99	Protein of unknown function (DUF3240)	Protein of unknown function (DUF3240)
+2558012512	2558013491	70.968	62	58	63	hypothetical protein	Chlorophyll A-B binding protein
+2558012513	2558013490	73.438	64	68	66	Phycobilisome degradation protein nblA	Phycobilisome degradation protein nblA
+2558012516	2558013487	88.387	155	161	166	Polyketide cyclase / dehydrase and lipid transport	Polyketide cyclase / dehydrase and lipid transport
+2558012517	2558012523	48.039	102	103	102	hypothetical protein	hypothetical protein
+2558012520	2558013483	69.106	123	113	141	hypothetical protein	hypothetical protein
 2558012521	2558013482	87.5	160	161	161	allophycocyanin alpha subunit apoprotein	allophycocyanin alpha subunit apoprotein
-2558012531	2558012631	91.75	194	195	195	Siphovirus Gp157	Siphovirus Gp157
-2558012533	2558012633	93.12	247	248	248	hypothetical protein	hypothetical protein
-2558012534	2558012634	64.89	94	95	96	hypothetical protein	hypothetical protein
-2558012536	2558012640	71.23	146	147	147	hypothetical protein	hypothetical protein
-2558012545	2558012705	82.59	293	333	317	2-methyl-6-solanesyl-1,4-benzoquinol methyltransferase (EC 2.1.1.-)	2-methyl-6-solanesyl-1,4-benzoquinol methyltransferase (EC 2.1.1.-)
-2558012555	2558012663	71.19	177	179	179	hypothetical protein	hypothetical protein
-2558012557	2558012669	94.74	95	145	146	hypothetical protein	hypothetical protein
-2558012559	2558012671	78.76	518	521	520	ATPases of the AAA+ class	ATPases of the AAA+ class
-2558012560	2558012673	83.5	103	111	104	hypothetical protein	hypothetical protein
-2558012563	2558012676	82.35	561	564	596	DNA polymerase I - 3'-5' exonuclease and polymerase domains	DNA polymerase I - 3'-5' exonuclease and polymerase domains
-2558012566	2558012678	61.8	89	102	96	hypothetical protein	hypothetical protein
-2558012617	2558013111	33.19	226	248	246	hypothetical protein	hypothetical protein
-2558012618	2558013110	36.78	174	181	169	hypothetical protein	hypothetical protein
-2558012620	2558012707	32.58	310	364	349	Site-specific recombinase XerD	Site-specific recombinase XerD
-2558012622	2558012895	34.63	283	314	327	ParB/RepB/Spo0J family partition protein	ParB/RepB/Spo0J family partition protein
-2558012664	2558013417	44.07	270	286	298	Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain	AraC-type DNA-binding domain-containing proteins
-2558012667	2558012932	70.55	343	355	350	Uncharacterized conserved protein	Uncharacterized conserved protein
-2558012752	2558013447	52.03	148	149	154	Domain of unknown function (DUF4383)	Domain of unknown function (DUF4383)
-2558012759	2558012791	42.2	218	227	241	hypothetical protein	hypothetical protein
-2558012765	2558012818	61.85	325	332	331	Rieske [2Fe-2S] domain	Rieske [2Fe-2S] domain
-2558012847	2558012848	48.22	645	687	657	hypothetical protein	hypothetical protein
-2558012859	2558012860	45.08	315	336	326	hypothetical protein	hypothetical protein
-2558012905	2558012907	65.49	226	289	299	conserved hypothetical protein (putative transposase or invertase)	conserved hypothetical protein (putative transposase or invertase)
+2558012531	2558012631	91.753	194	195	195	Siphovirus Gp157	Siphovirus Gp157
+2558012532	2558012632	78.947	38	59	66	hypothetical protein	hypothetical protein
+2558012533	2558012633	93.117	247	248	248	hypothetical protein	hypothetical protein
+2558012534	2558012634	64.894	94	95	96	hypothetical protein	hypothetical protein
+2558012536	2558012640	71.233	146	147	147	hypothetical protein	hypothetical protein
+2558012545	2558012705	79.677	310	333	317	2-methyl-6-solanesyl-1,4-benzoquinol methyltransferase (EC 2.1.1.-)	2-methyl-6-solanesyl-1,4-benzoquinol methyltransferase (EC 2.1.1.-)
+2558012555	2558012663	71.186	177	179	179	hypothetical protein	hypothetical protein
+2558012557	2558012669	87.879	132	145	146	hypothetical protein	hypothetical protein
+2558012559	2558012671	78.764	518	521	520	ATPases of the AAA+ class	ATPases of the AAA+ class
+2558012560	2558012673	83.495	103	111	104	hypothetical protein	hypothetical protein
+2558012563	2558012676	82.353	561	564	596	DNA polymerase I - 3'-5' exonuclease and polymerase domains	DNA polymerase I - 3'-5' exonuclease and polymerase domains
+2558012566	2558012678	58.416	101	102	96	hypothetical protein	hypothetical protein
+2558012617	2558013111	33.186	226	248	246	hypothetical protein	hypothetical protein
+2558012618	2558013110	40.571	175	181	169	hypothetical protein	hypothetical protein
+2558012620	2558012707	32.581	310	364	349	Site-specific recombinase XerD	Site-specific recombinase XerD
+2558012622	2558012895	35.235	298	314	327	ParB/RepB/Spo0J family partition protein	ParB/RepB/Spo0J family partition protein
+2558012664	2558013417	44.074	270	286	298	Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain	AraC-type DNA-binding domain-containing proteins
+2558012667	2558012932	70.554	343	355	350	Uncharacterized conserved protein	Uncharacterized conserved protein
+2558012732	2558012733	57.798	109	152	152	camphor resistance protein CrcB	camphor resistance protein CrcB
+2558012752	2558013447	52.027	148	149	154	Domain of unknown function (DUF4383)	Domain of unknown function (DUF4383)
+2558012759	2558012791	42.202	218	227	241	hypothetical protein	hypothetical protein
+2558012765	2558012818	61.846	325	332	331	Rieske [2Fe-2S] domain	Rieske [2Fe-2S] domain
+2558012847	2558012848	50.154	648	687	657	hypothetical protein	hypothetical protein
+2558012859	2558012860	45.079	315	336	326	hypothetical protein	hypothetical protein
+2558012861	2558013327	42.653	1470	1411	1425	FOG: WD40 repeat	FOG: WD40 repeat
+2558012905	2558012907	60.269	297	289	299	conserved hypothetical protein (putative transposase or invertase)	conserved hypothetical protein (putative transposase or invertase)
 2558012940	2558012949	55.67	291	308	338	hypothetical protein	hypothetical protein
-2558012990	2558013064	40.66	396	398	404	PAS domain S-box	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
-2558013100	2558013329	83.33	222	235	250	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains	FOG: CheY-like receiver
-2558013141	2558013333	70.09	224	228	228	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
-2558013142	2558013334	54.98	422	426	410	Signal transduction histidine kinase	His Kinase A (phospho-acceptor) domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
-2558013173	2558013178	66.46	158	159	174	Phycobilisome protein	Phycobilisome protein
-2558013212	2558013213	45.83	408	398	395	Predicted glycosyl transferase	Predicted glycosyl transferase
-2558013234	2558013435	41.05	95	93	98	CRISPR-associated endoribonuclease Cas2	CRISPR-associated endoribonuclease Cas2
-2558013339	2558013500	41.7	446	536	492	4Fe-4S dicluster domain/Helix-turn-helix domain	Predicted transcriptional regulators
+2558012990	2558013064	40.657	396	398	404	PAS domain S-box	cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+2558013100	2558013329	83.333	222	235	250	Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains	FOG: CheY-like receiver
+2558013141	2558013333	70.089	224	228	228	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+2558013142	2558013334	54.976	422	426	410	Signal transduction histidine kinase	His Kinase A (phospho-acceptor) domain/Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+2558013173	2558013178	66.456	158	159	174	Phycobilisome protein	Phycobilisome protein
+2558013212	2558013213	45.833	408	398	395	Predicted glycosyl transferase	Predicted glycosyl transferase
+2558013234	2558013435	41.053	95	93	98	CRISPR-associated endoribonuclease Cas2	CRISPR-associated endoribonuclease Cas2
+2558013339	2558013500	41.704	446	536	492	4Fe-4S dicluster domain/Helix-turn-helix domain	Predicted transcriptional regulators
 2558013381	2558013382	100	71	71	73	hypothetical protein	hypothetical protein
