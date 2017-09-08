@@ -1,4 +1,5 @@
 #!/usr/bin/perl -w
+BEGIN { $ENV{CLUSTALDIR} = 'C:\Program Files (x86)\ClustalW2' }
 use strict;
 use Bio::Tools::Run::Phylo::PAML::Codeml;
 use Bio::Tools::RUN::Alignment::Clustalw;
@@ -24,8 +25,9 @@ while ( my $seq = $seqio->next_seq ) {
     my $pseq = $protein->seq();
     if( $pseq =~ /\*/ &&
         $pseq !~ /\*$/ ) {
-          warn("provided a CDS sequence with a stop codon, PAML will choke!");
-          exit(0);
+          #warn("provided a CDS sequence with a stop codon, PAML will choke!");
+          #exit(0);
+          next;
     }
     # Tcoffee can't handle '*' even if it is trailing
     $pseq =~ s/\*//g;

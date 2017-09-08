@@ -9,8 +9,10 @@ while (<$BGI>) {
     my @a=split /\t/,$_;
     if (/ID=(\w+);.*product=([^\;]+)/){
         my $id=$1;
+		print $id;
         my $des=$2;
         $bgi->{$id}=$des;
+		print "$id\t$des\n;"
     }
 }
 close($BGI);
