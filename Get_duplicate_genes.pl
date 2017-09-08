@@ -3,7 +3,7 @@
 #DATE: July. 31st, 2017
 #VERS: 1.0
 
-# This pipeline is prepared to get duplicates genes using gff and amino acid file.
+# This pipeline is prepared to get duplicates genes using gff , cds file and amino acid file.
 
 use warnings;
 use strict;
@@ -19,6 +19,7 @@ my $command="perl Get_duplicate_genes.pl @ARGV";
 
 my %options = (
     gff                        => undef,
+    cds                        => undef,
     aa                         => undef,
     prefix                     => undef,
     threads                    => 4,
@@ -30,6 +31,7 @@ my %options = (
 GetOptions(
     'g=s'          => \$options{gff},
     'a=s'          => \$options{aa},
+    'c=s'          => \$options{cds},
     'p=s'          => \$options{prefix},
     't=i'          => \$options{threads},
     'o=s'          => \$options{output},
@@ -78,7 +80,7 @@ my $prefix=$options{prefix};
 
 ##make the blast database
 #my $cmd="formatdb -i $options{aa} -p T";
-my $cmd="makeblastdb -in $options{aa} -title $options{aa} -dbtype prot -out $options{aa}-parse_seqids";
+my $cmd="makeblastdb -in $options{aa} -title $options{aa} -dbtype prot -out $options{aa} -parse_seqids";
 my $result;
 message($options{verbose},"make the blast database: $cmd\n" );
 $result = system($cmd);
@@ -106,7 +108,7 @@ if ( $result != 0 )
     die("The following command failed: '$cmd'\n");
 } 
 
-## Execute the R script to get the duplicate gene pair
+## Get the descriptions
 $cmd="perl get_des.pl $options{gff} $options{output}/$prefix.dup.txt $options{output}/$prefix.des.txt ";
 message($options{verbose},"Generate full report: $cmd\n" );
 $result = system($cmd);
@@ -114,6 +116,16 @@ if ( $result != 0 )
  {
      die("The following command failed: '$cmd'\n");
  }
+ 
+##Get ka ks values
+$cmd="perl get_kaks.pl $options{output}/$prefix.des.txt $options{cds} $options{output}/$prefix.des.kaks.txt ";
+message($options{verbose},"Generate full report: $cmd\n" );
+$result = system($cmd);
+if ( $result != 0 )
+ {
+     die("The following command failed: '$cmd'\n");
+ }
+ 
 
 
 sub check_option {
@@ -188,7 +200,7 @@ sub message {
 sub print_usage {
     print <<BLOCK;
 USAGE:
-perl Get_duplicate_genes.pl -g test_input/2556921600.gff -a test_input/2556921600.faa -o test_output -p JSC1 -v 
+perl Get_duplicate_genes.pl -g test_input/2556921600.gff -a test_input/2556921600.faa -c test_input/2556921600.genes.fna -o test_output -p JSC1 -v 
 
  -g [File]        : Input gff file (Required).
  -a [File]        : Input amino acid fil (Required).
