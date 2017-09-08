@@ -23,10 +23,12 @@ open(my $FULL, '>', $ARGV[2]) or die ;
 my $count=0;
 while(<$mod>){
     $count++;
+    s/\"//g;
     print $FULL "query\tsubject\tidentity\tlength\tqlength\tslength\tquery_des\tsubject_des\n" and next if $count==1;
     chomp;
     my @a=split /\t/,$_;
     my $query=$a[0];
+    print $query."\n";
     my $subject=$a[1];
     my $identity=$a[2];
 	my $len=$a[3];

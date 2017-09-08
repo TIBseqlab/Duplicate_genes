@@ -73,8 +73,12 @@ message($options{verbose},"The full Command used is: $command\n" );
 
 my $prefix=$options{prefix};
 
+#makeblastdb -in HGAP.fa -title HGAP -dbtype nucl -out HGAP -parse_seqids
+#blastn -query plasmid.fa -db HGAP -out HGAP.bsp -evalue 1e-30 -outfmt 6
+
 ##make the blast database
-my $cmd="formatdb -i $options{aa} -p T";
+#my $cmd="formatdb -i $options{aa} -p T";
+my $cmd="makeblastdb -in $options{aa} -title $options{aa} -dbtype prot -out $options{aa}-parse_seqids";
 my $result;
 message($options{verbose},"make the blast database: $cmd\n" );
 $result = system($cmd);
@@ -84,7 +88,8 @@ if ( $result != 0 )
 }
 
 ##blast
-$cmd="blastall -p blastp -d $options{aa} -i $options{aa} -o $options{output}/$prefix.bsp -e 1e-5 -m 8  -a $options{threads}";
+#$cmd="blastall -p blastp -d $options{aa} -i $options{aa} -o $options{output}/$prefix.bsp -e 1e-5 -m 8  -a $options{threads}";
+$cmd="blastp -query $options{aa} -db $options{aa} -out $options{output}/$prefix.bsp -evalue 1e-5 -outfmt 6  -num_threads  $options{threads}";
 message($options{verbose},"Blasting: $cmd\n" );
 $result = system($cmd);
 if ( $result != 0 )
@@ -93,13 +98,22 @@ if ( $result != 0 )
 }
 
 ## Execute the R script to get the duplicate gene pair
-$cmd="Rscript dupgenes1.R $options{gff} $options{output}/$prefix.bsp $options{output}/$prefix.dup.txt";
+$cmd="Rscript dupgenes.R $options{gff} $options{output}/$prefix.bsp $options{output}/$prefix.dup.txt";
 message($options{verbose},"R Scripts: $cmd\n" );
 $result = system($cmd);
 if ( $result != 0 )
 {
     die("The following command failed: '$cmd'\n");
 } 
+
+## Execute the R script to get the duplicate gene pair
+$cmd="perl get_des.pl $options{gff} $options{output}/$prefix.dup.txt $options{output}/$prefix.des.txt ";
+message($options{verbose},"Generate full report: $cmd\n" );
+$result = system($cmd);
+if ( $result != 0 )
+ {
+     die("The following command failed: '$cmd'\n");
+ }
 
 
 sub check_option {
