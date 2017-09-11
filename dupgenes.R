@@ -65,7 +65,7 @@ recibest2$percent <- recibest2$length/recibest2$maxlen*100
 
 # screen duplicated gene pairs
 dupgene1 <- recibest2[,c("query","subject","identity","length","percent")]
-dupgene1 <- dupgene1[dupgene1$percent >= 80,]
+dupgene1 <- dupgene1[dupgene1$percent >= 75,]
 dupgene2 <- dupgene1[dupgene1$length > 150,]
 dupgene2 <- dupgene2[dupgene2$identity >= 30,]
 dupgene3 <- dupgene1[dupgene1$length <= 150,]

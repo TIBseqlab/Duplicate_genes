@@ -91,7 +91,7 @@ if ( $result != 0 )
 
 ##blast
 #$cmd="blastall -p blastp -d $options{aa} -i $options{aa} -o $options{output}/$prefix.bsp -e 1e-5 -m 8  -a $options{threads}";
-$cmd="blastp -query $options{aa} -db $options{aa} -out $options{output}/$prefix.bsp -evalue 1e-5 -outfmt 6  -num_threads  $options{threads}";
+$cmd="blastp -query $options{aa} -db $options{aa} -out $options{output}/$prefix.bsp -evalue 1e-3 -outfmt 6  -num_threads  $options{threads}";
 message($options{verbose},"Blasting: $cmd\n" );
 $result = system($cmd);
 if ( $result != 0 )
